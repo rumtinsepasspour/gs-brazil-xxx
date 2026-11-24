@@ -1,0 +1,260 @@
+[bundesregierung-a] (UNVERIFIED) sitemap index, 1 children — collected 708, matched 708
+    https://www.bundesregierung.de/breg-de/service/archiv-bundesregierung/alt-inhalte/leider-wurden-fuer-ihre-eingabe-keine-ergebnisse-gefunden--70772
+    https://www.bundesregierung.de/breg-de/service/archiv-bundesregierung/alt-inhalte/erfolgreich-bestellt-70904
+    https://www.bundesregierung.de/breg-de/service/archiv-bundesregierung/alt-inhalte/misserfolg-70906
+    lastmod present on 0% of matched URLs (attachment watch off)
+    Path structure (count, prefix):
+         232  /breg-de/service
+         229  /breg-de/schwerpunkte
+         204  /breg-de/bundesregierung
+           9  /breg-de/gebaerdensprache
+           8  /breg-de/leichte-sprache
+           7  /breg-de/mediathek
+           7  /breg-de/nachhaltigkeit
+           4  /breg-de/barrierefreiheit
+           2  /breg-de/suche
+           1  /breg-de/fakten-zur-regierungspolitik-975748
+[bundesregierung-b] (UNVERIFIED) sitemap index, 1 children — collected 115, matched 0
+    NOTE: source yields URLs but none match include patterns — tune include/exclude.
+    Path structure (count, prefix):
+          60  /breg-fr/le-gouvernement-f%C3%A9d%C3%A9ral
+          31  /breg-fr/service
+           3  /breg-fr/recherche
+           3  /breg-fr/mediatheque
+           1  /breg-fr/plan-du-site-999700
+           1  /breg-fr/http-status-404-1001016
+           1  /breg-fr/http-status-500-1133090
+           1  /breg-fr/http-status-403-1133092
+           1  /breg-fr/copier-le-lien-2208280
+           1  /breg-fr/http-status-400-2329140
+[bundesregierung-c] (UNVERIFIED) sitemap index, 1 children — collected 132, matched 0
+    NOTE: source yields URLs but none match include patterns — tune include/exclude.
+    Path structure (count, prefix):
+          43  /breg-en/federal-government
+          37  /breg-en/federal-cabinet
+          20  /breg-en/service
+          15  /breg-en/issues
+           4  /breg-en/media-center
+           2  /breg-en/news
+           1  /breg-en/search
+           1  /breg-en/site-map-999642
+           1  /breg-en/http-status-404-1001012
+           1  /breg-en/http-status-500-1133080
+[bundeskanzler] (UNVERIFIED) sitemap index, 1 children — collected 81, matched 81
+    https://www.bundeskanzler.de/bk-de/suche/leider-wurden-fuer-ihre-eingabe-keine-ergebnisse-gefunden--1840082
+    https://www.bundeskanzler.de/bk-de/gebaerdensprache/stellen-sie-ihre-anfrage-in-deutscher-gebaerdensprache-dgs--1842214
+    https://www.bundeskanzler.de/bk-de/content/informationen-der-bundesministerien-in-gebaerdensprache-1878780
+    lastmod present on 0% of matched URLs (attachment watch off)
+    robots.txt declares sitemaps: https://www.bundeskanzler.de/service-sitemap-ff9a229d4ed3741015cb974040e3e5e1-sitemap_index.xml
+    Path structure (count, prefix):
+          24  /bk-de/content
+          19  /bk-de/service
+          16  /bk-de/kanzleramt
+           5  /bk-de/leichte-sprache
+           4  /bk-de/mediathek
+           3  /bk-de/gebaerdensprache
+           3  /bk-de/friedrich-merz
+           2  /bk-de/barrierefreiheit
+           1  /bk-de/suche
+           1  /bk-de
+[bmf] (verified) plain sitemap, 2287 urls — collected 2287, matched 2287
+    https://www.bundesfinanzministerium.de/Content/DE/Bilderstrecken/Bildergalerien/2023/2023-07-09-Vernissage-Survivors-Ausstellung/eindruecke.html
+    https://www.bundesfinanzministerium.de/Content/DE/Bilderstrecken/Bildergalerien/2024/2024-09-07-08-Tag-des-offenen-Denkmals/eindruecke.html
+    https://www.bundesfinanzministerium.de/Content/DE/Bilderstrecken/Bildergalerien/2024/2024-12-05-Sonderbriefmarke-SchUM-Staetten/eindruecke.html
+    lastmod present on 100% of matched URLs (attachment watch off)
+    Path structure (count, prefix):
+        2287  /Content/DE
+[bmi] (UNVERIFIED) sitemap index, 6 children — collected 4528, matched 3939
+    https://www.bmi.bund.de/SharedDocs/schwerpunkte/DE/respektkampagne-einsatzkraefte/respekt-fuer-unsere-einsatzkraefte.html
+    https://www.bmi.bund.de/DE/service/transparenz/transparenz-artikel.html
+    https://www.bmi.bund.de/DE/themen/sicherheit/extremismus/linksextremismus/linksextremismus-artikel.html
+    lastmod present on 100% of matched URLs (attachment watch off)
+    Path structure (count, prefix):
+        1780  /SharedDocs/downloads
+        1201  /SharedDocs/pressemitteilungen
+         421  /SharedDocs/rundschreiben
+         373  /SharedDocs/gesetzgebungsverfahren
+         250  /DE/themen
+         121  /SharedDocs/reden
+          98  /EN/topics
+          63  /SharedDocs/interviews
+          45  /SharedDocs/gesetzestexte
+          31  /DE/ministerium
+[aa] (UNVERIFIED) sitemap index, 1 children — collected 15984, matched 15984
+    https://www.auswaertiges-amt.de/de/service/broschueren/warenkorb-node
+    https://www.auswaertiges-amt.de/de/service/broschueren/warenkorb-node/warenkorb-bestellungerfolg-node
+    https://www.auswaertiges-amt.de/de/237494-237494
+    lastmod present on 0% of matched URLs (attachment watch off)
+    Path structure (count, prefix):
+       13118  /de/newsroom
+        1312  /de/service
+         766  /de/aussenpolitik
+         310  /de/aamt
+         302  /de/karriere
+         103  /de/reiseundsicherheit
+          21  /de/leichte-sprache
+           8  /de/gebaerdensprache
+           1  /de/237494-237494
+           1  /de/237498-237498
+[bmvg] (UNVERIFIED) plain sitemap, 4256 urls — collected 4256, matched 4256
+    https://www.bmvg.de/de/kontakt
+    https://www.bmvg.de/de/impressum
+    https://www.bmvg.de/de/inhaltsuebersicht
+    lastmod present on 0% of matched URLs (attachment watch off)
+    Path structure (count, prefix):
+        1987  /de/aktuelles
+        1006  /de/presse
+         752  /resource/blob
+         309  /de/themen
+          69  /de/service
+          32  /de/mediathek
+          28  /de/ministerium
+           5  /de/pistorius-besucht-indo-pazifik-partner
+           5  /de/leichte-sprache
+           4  /de/muenchner-sicherheitskonferenz-seit-1963-ein-wichtiges-forum
+[bmwe] (UNVERIFIED) FAILED: HTTPError: 404 Client Error: Not Found for url: https://www.bundeswirtschaftsministerium.de/Sitemap_Index.xml
+[bmftr] (UNVERIFIED) disallowed by robots.txt rules — collected 0, matched 0
+    robots.txt declares sitemaps: https://www.bmftr.bund.de/SiteGlobals/Functions/Sitemap/Sitemap_Index.xml
+[bmjv] (UNVERIFIED) sitemap index, 7 children — collected 1340, matched 1332
+    https://www.bmjv.de/DE/service/formulare/form_vorsorgevollmacht/form_vorsorgevollmacht_artikel.html
+    https://www.bmjv.de/DE/service/formulare/form_kontenwechsel/form_kontenwechsel_artikel.html
+    https://www.bmjv.de/DE/themen/vorsorge_betreuungsrecht/ehegattennotvertretung/ehegattennotvertretung_artikel.html
+    lastmod present on 100% of matched URLs (attachment watch off)
+    Path structure (count, prefix):
+         421  /SharedDocs/Pressemitteilungen
+         196  /SharedDocs/Reden
+         187  /DE/themen
+         139  /SharedDocs/Publikationen
+         130  /SharedDocs/Meldungen
+         110  /SharedDocs/Interviews
+          76  /SharedDocs/Gesetzgebungsverfahren
+          29  /DE/service
+          24  /DE/ministerium
+          21  /DE/rechtsstaat_kompakt
+[bmbfsfj] (UNVERIFIED) FAILED: SSLError: HTTPSConnectionPool(host='www.bmbfsfj.bund.de', port=443): Max retries exceeded with url: /service-sitemap-b391d6efd2092a2aac9fba5db84be971-sitemap_index.xml (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1032)')))
+[bmas] (verified) plain sitemap, 4664 urls — collected 4664, matched 4304
+    https://www.bmas.de/DE/Service/Presse/Meldungen/2017/kuenstlersozialversicherung-auf-stabilem-fundament.html
+    https://www.bmas.de/DE/Service/Presse/Meldungen/2024/heil-uebergibt-urkunde-an-terzenbach.html
+    https://www.bmas.de/DE/Service/Presse/Pressemitteilungen/2026/arbeitsmarktzahlen-mai-2026.html
+    lastmod present on 100% of matched URLs (attachment watch off)
+    Path structure (count, prefix):
+        2691  /DE/Service
+         508  /SharedDocs/Videos
+         460  /DE/Soziales
+         319  /DE/Arbeit
+         265  /EN/Services
+         230  /DE/Ministerium
+          56  /DE/Europa-und-die-Welt
+          44  /EN/Europe-and-the-World
+          31  /DE/Gebaerdensprache
+          13  /EN/Labour
+[bmds] (verified) sitemap index, 1 children — collected 205, matched 205
+    https://bmds.bund.de/
+    https://bmds.bund.de/themen
+    https://bmds.bund.de/ministerium
+    lastmod present on 100% of matched URLs (attachment watch off)
+    Path structure (count, prefix):
+          24  /themen/staatsmodernisierung
+          20  /aktuelles/digitalgipfel
+          17  /themen/digitale-infrastrukturen
+          16  /themen/digitaler-staat
+          15  /service/gesetzgebungsverfahren
+          14  /themen/digitalpolitik
+          14  /service/bekanntmachungen
+          11  /service/publikationen
+           8  /themen/digitale-wirtschaft
+           7  /ministerium/leitung
+[bmv] (UNVERIFIED) FAILED: SSLError: HTTPSConnectionPool(host='www.bmv.de', port=443): Max retries exceeded with url: /SiteGlobals/Functions/Google/Sitemap.html?view=xml (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1032)')))
+[bmg] (verified) sitemap index, 7 children — collected 4067, matched 4067
+    https://www.bundesgesundheitsministerium.de/
+    https://www.bundesgesundheitsministerium.de/ministerium
+    https://www.bundesgesundheitsministerium.de/themen
+    lastmod present on 100% of matched URLs (attachment watch off)
+    Path structure (count, prefix):
+        1375  /service/publikationen
+         864  /presse/pressemitteilungen
+         731  /ministerium/meldungen
+         172  /service/begriffe-von-a-z
+         134  /ministerium/ressortforschung
+         128  /presse/interviews
+         106  /themen/praevention
+          99  /presse/reden
+          53  /themen/pflege
+          42  /themen/gesundheitswesen
+[bmleh] (UNVERIFIED) sitemap index, 3 children — collected 2604, matched 2343
+    https://www.bmleh.de/DE/themen/wald/holz/heizen-mit-holz.html
+    https://www.bmleh.de/DE/ministerium/organisation/beiraete/dueng-mitglieder.html
+    https://www.bmleh.de/DE/themen/wald/waelder-weltweit/waldbildung.html
+    lastmod present on 100% of matched URLs (attachment watch off)
+    Path structure (count, prefix):
+        2283  /SharedDocs/Bilder
+         146  /DE/themen
+          42  /SharedDocs/Meldungen
+          38  /EN/services
+          27  /DE/ministerium
+          21  /DE/service
+          17  /EN/topics
+          11  /DE/cug
+          11  /EN/ministry
+           4  /DE/serviceseiten
+[bmukn] (verified) sitemap index, 38 children — collected 4969, matched 4969
+    https://www.bundesumweltministerium.de/
+    https://www.bundesumweltministerium.de/ministerium/anschriften
+    https://www.bundesumweltministerium.de/buergerservice/veranstaltungen
+    lastmod present on 100% of matched URLs (attachment watch off)
+    Path structure (count, prefix):
+         111  /themen/kreislaufwirtschaft
+          91  /themen/nachhaltigkeit
+          76  /themen/nukleare-sicherheit
+          69  /themen/naturschutz
+          59  /themen/wasser-und-binnengewaesser
+          57  /themen/strahlenschutz
+          46  /themen/gesundheit
+          45  /themen/chemikaliensicherheit
+          34  /themen/artenschutz
+          32  /themen/internationales
+[bmz-a] (UNVERIFIED) sitemap index, 1 children — collected 2603, matched 2603
+    https://www.bmz.de/de/ministerium/sdg
+    https://www.bmz.de/de/fachkraefteallianz-we-fair-288174
+    https://www.bmz.de/de/starke-partnerschaften-269800
+    lastmod present on 0% of matched URLs (attachment watch off)
+    Path structure (count, prefix):
+        1509  /de/aktuelles
+         476  /de/themen
+         442  /de/laender
+          94  /de/ministerium
+          30  /de/mitmachen
+          19  /de/agenda-2030
+          18  /de/service
+           1  /de/fachkraefteallianz-we-fair-288174
+           1  /de/starke-partnerschaften-269800
+           1  /de/suche
+[bmz-b] (UNVERIFIED) sitemap index, 1 children — collected 1020, matched 0
+    NOTE: source yields URLs but none match include patterns — tune include/exclude.
+    Path structure (count, prefix):
+         426  /en/countries
+         314  /en/news
+         241  /en/issues
+          26  /en/ministry
+          10  /en/services
+           1  /en/frequently-asked-questions-to-the-german-development-ministry
+           1  /en/suche
+           1  /en
+[bmwsb] (UNVERIFIED) sitemap index, 2 children — collected 697, matched 694
+    https://www.bmwsb.bund.de/DE/tools-services/publikationen/publikationen.html
+    https://www.bmwsb.bund.de/DE/tools-services/soziale-medien/SoMe-Netiquette.html
+    https://www.bmwsb.bund.de/DE/wohnen/foerderprogramme-bmwsb/foerderprogramme-wohnen/sozialer-wohnungsbau/SWB-Mainz-artikel.html
+    lastmod present on 100% of matched URLs (attachment watch off)
+    Path structure (count, prefix):
+         339  /SharedDocs/pressemitteilungen
+         111  /DE/bauen
+          57  /DE/raum-und-region
+          51  /DE/wohnen
+          44  /DE/stadtentwicklung
+          26  /DE/tools-services
+          23  /SharedDocs/topthemen
+          20  /DE/ministerium
+          10  /SharedDocs/faqs
+           4  /Login/PasswortVergessen
+
+21 sources probed, 4 yielded nothing or failed.

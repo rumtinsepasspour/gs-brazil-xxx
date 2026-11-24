@@ -1,0 +1,68 @@
+# govdocs source registry — GERMANY (federal)
+#
+# v6, tuned from probes #2-#5 (2026-09-07). LAUNCH REGISTRY:
+# 11 sources live, 8 ledgered. Ledger breakdown:
+#   Enodia gate (4): aa, bundesregierung, bundeskanzler, bmz
+#   Enodia gate, extra feed/listing candidates also dead (BPA rss x3, AA rss x2)
+#   TLS handshake refused (2): bmv, bmbfsfj
+#   Empty JS render behind gate (2): bmwe-home, bmwe-sonderreihen All URL structures below are
+# OBSERVED, not guessed. 14 of 16 ministry-layer estates probe clean.
+#
+# Probe #2 findings baked in here:
+#  - Language trees adjudicated by matched counts: bundesregierung's German
+#    index kept, French/English indexes deleted; BMZ's German index kept,
+#    English deleted.
+#  - defaults.exclude (NEW, needs govdocs.py v3+): shared German chrome —
+#    Gebärdensprache/Leichte-Sprache mirrors, Mediathek, search, careers,
+#    shopping carts, login pages, error pages — excluded estate-wide.
+#  - watch_documents: ON for every source probe showed 100% lastmod.
+#  - GATE LEDGER: bmv.de and bmbfsfj.bund.de reject plain HTTP clients at
+#    the TLS layer (SSL EOF before any response). Ledgered enabled: false;
+#    rendered escalation (playwright) is the designated retry path — same
+#    treatment as DSTG/MDBA in the AU instance.
+#  - BMFTR declares its sitemap inside a robots-disallowed path; engine v3
+#    treats declared sitemaps as the machine interface (like RSS) and
+#    fetches them past the robots gate. Content pages stay robots-checked.
+#  - bundesregierung.de's sitemap carries NO /breg-de/aktuelles news pages —
+#    the BPA's actual press stream is invisible to it. A listing source on
+#    the Aktuelles page covers the gap (candidate; probe adjudicates).
+#  - lastmod absent (0%) on: bundesregierung, bundeskanzler, aa, bmvg, bmz.
+#    Their backfill dating will lean on URL signals; expect thinner
+#    backfill there, daily runs unaffected.
+#
+# verified: true  = probed clean end-to-end from this machine
+# verified: false = candidate awaiting a clean probe
+
+defaults:
+  user_agent: "govdocs-monitor/0.1 (policy research; contact: YOUR_EMAIL_HERE)"
+  rate_limit_seconds: 2
+  timeout_seconds: 30
+  # estate-wide excludes (uniform German federal site chrome + EN/FR mirrors)
+  exclude:
+    - "(?i)/en(/|$)"
+    - "(?i)/fr(/|$)"
+    - "(?i)gebaerdensprache"
+    - "(?i)leichte-sprache"
+    - "(?i)/mediathek(/|$)"
+    - "(?i)barrierefreiheit"
+    - "(?i)/suche(/|$)"
+    - "(?i)/videos?(/|$)"
+    - "(?i)warenkorb"
+    - "(?i)/login(/|$)"
+    - "(?i)http-status-"
+    - "(?i)alt-inhalte"
+    - "(?i)/karriere(/|$)"
+
+# Translation (Claude API, key in ~/.govdocs_de.env). daily_token_cap is the
+# spend guard; raise it for backfill pushes, enabled: false switches
+# translation off.
+translate:
+  enabled: true
+  model: claude-haiku-4-5
+  batch_size: 15
+  daily_token_cap: 4000000
+  summary_clip: 600
+
+sources:
+
+  # Add your country's government sources here

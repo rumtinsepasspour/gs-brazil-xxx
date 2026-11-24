@@ -1,0 +1,13 @@
+# Topic stems for the morning triage (Slack post + digest ordering).
+# Stems match anywhere in an item's title or summary, case-insensitive:
+# "food secur" catches "food security" and "food-secure"; keep stems short.
+# Edit freely — one topic per line, stems comma-separated after the colon.
+topics:
+  risk & resilience: ["risk", "resilien"]
+  catastrophe & disaster: ["catastroph", "disaster", "emergency management"]
+  pandemic & biosecurity: ["pandemic", "biosecur", "outbreak", "vaccine"]
+  nuclear: ["nuclear", "radiological"]
+  artificial intelligence: ["artificial intelligence", " ai ", "frontier model"]
+  preparedness: ["prepared", "stockpil", "civil defence", "civil defense"]
+  food security: ["food secur", "food supply"]
+  critical infrastructure: ["critical infrastructure", "soci act"]

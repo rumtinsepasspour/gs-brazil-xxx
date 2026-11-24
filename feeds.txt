@@ -1,0 +1,39 @@
+# One Google Alerts RSS address per line.
+# Optional: add " | a short label" after the address to name the alert on the dashboard.
+# Lines starting with # are ignored.
+#
+# Example:
+# https://www.google.com/alerts/feeds/01234567890123456789/9876543210987654321 | Pact for Civil Protection
+https://www.google.com/alerts/feeds/08752878296651367687/10587181695784721729 | KRITIS umbrella act
+https://www.google.com/alerts/feeds/08752878296651367687/10113639236173880491 | Civil defence concept
+https://www.google.com/alerts/feeds/08752878296651367687/2400257771528440794 | Operational plan Germany
+https://www.google.com/alerts/feeds/08752878296651367687/8425403957557770554 | Continuity of government
+https://www.google.com/alerts/feeds/08752878296651367687/8425403957557769562 | Civil protection
+https://www.google.com/alerts/feeds/08752878296651367687/8425403957557769349 | Supply of the population
+https://www.google.com/alerts/feeds/08752878296651367687/8425403957557769894 | Support of the armed forces
+https://www.google.com/alerts/feeds/08752878296651367687/8425403957557769519 | Pact for Civil Protection
+https://www.google.com/alerts/feeds/08752878296651367687/8425403957557770722 | Supply-assurance laws
+https://www.google.com/alerts/feeds/08752878296651367687/8425403957557769649 | Civil protection act
+https://www.google.com/alerts/feeds/08752878296651367687/8425403957557769961 | Health supply-assurance act
+https://www.google.com/alerts/feeds/08752878296651367687/8425403957557770546 | Food supply-assurance act
+https://www.google.com/alerts/feeds/08752878296651367687/1301038234750917830 | Energy security act
+https://www.google.com/alerts/feeds/08752878296651367687/4857987081685110475 | IMK
+https://www.google.com/alerts/feeds/08752878296651367687/15007676701911329289 | Technisches Hilfswerk
+https://www.google.com/alerts/feeds/08752878296651367687/12339324439086583529 | Bundesamt für Bevölkerungsschutz
+
+[wider]
+https://www.google.com/alerts/feeds/11972632802431873873/17180157991237274879 | Germany and pandemic (ML)
+https://www.google.com/alerts/feeds/11972632802431873873/15259443471532749663 | Germany and nuclear weapon (ML)
+https://www.google.com/alerts/feeds/11972632802431873873/13090482328177560577 | Germany and food security (ML)
+https://www.google.com/alerts/feeds/11972632802431873873/2339316042922410407 | Germany and climate change (ML)
+https://www.google.com/alerts/feeds/11972632802431873873/2012693207996878261 | Germany and AI safety (ML)
+https://www.google.com/alerts/feeds/11972632802431873873/13090482328177560089 | Germany and AI risk (ML)
+https://www.google.com/alerts/feeds/11972632802431873873/13090482328177557787 | Germany and biosecurity (ML)
+https://www.google.com/alerts/feeds/08752878296651367687/2338848182792995572 | Preparedness (German)
+https://www.google.com/alerts/feeds/08752878296651367687/2338848182792995796 | National resilience (German)
+https://www.google.com/alerts/feeds/08752878296651367687/4186073770247319111 | Biosecurity (German)
+https://www.google.com/alerts/feeds/08752878296651367687/9587049826375297592 | AI safety (German)
+https://www.google.com/alerts/feeds/08752878296651367687/5558100136724003081 | climate change (Germany)
+https://www.google.com/alerts/feeds/08752878296651367687/5619420418498115743 | Food security (German)
+https://www.google.com/alerts/feeds/08752878296651367687/5619420418498116930 | Nuclear weapon (German)
+https://www.google.com/alerts/feeds/08752878296651367687/5558100136724003203 | Pandemic (German)
