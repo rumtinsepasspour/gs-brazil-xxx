@@ -1,5 +1,635 @@
 [
  {
+  "id": "2b9fc1fed3dccc93",
+  "stream": "core",
+  "url": "https://www.nwzonline.de/lokales/ammerland/dlrg-bad-zwischenahn-besucht-bundestag-und-innenministerium-YHKHJLFXTBC5FGGVIEBT2YCP5Q.html",
+  "source": "nwzonline.de",
+  "title_de": "DLRG Bad Zwischenahn besucht Bundestag und Innenministerium - NWZ",
+  "snippet_de": "Im Bund geht es um den Pakt für den Bevölkerungsschutz, für den bis 2029 zehn Milliarden Euro bereitstehen, etwa für Fahrzeuge und Warnsysteme.",
+  "published": "2026-11-24T23:01:41+00:00",
+  "first_seen": "2026-11-25T04:25:02+00:00",
+  "alerts": [
+   "Pact for Civil Protection"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "8e91716b820bdd4d",
+  "stream": "wider",
+  "url": "https://www.lavozdelanzarote.com/en/ekonomus/tourism/lanzarote-loses-five-weekly-connections-to-germany-this-winter_247547_102_amp.html",
+  "source": "lavozdelanzarote.com",
+  "title_de": "Lanzarote loses five weekly connections to Germany this winter",
+  "snippet_de": "Lanzarote loses this winter five weekly flights and 861 seats per week on its direct connections with Germany ... pandemic and will rise again by a ...",
+  "published": "2026-11-24T12:25:37+00:00",
+  "first_seen": "2026-11-25T04:25:02+00:00",
+  "alerts": [
+   "Germany and pandemic (ML)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "33998d00a728239d",
+  "stream": "wider",
+  "url": "https://www.aerotime.aero/articles/ryanair-promises-major-german-expansion-merz-scraps-taxes-fees/amp",
+  "source": "aerotime.aero",
+  "title_de": "Ryanair promises major German expansion if Merz scraps 'damaging' taxes and fees",
+  "snippet_de": "... Germany by 2032. O'Leary claimed Germany has the “worst-recovered air transport market in Europe after the Covid pandemic” and made air travel ...",
+  "published": "2026-11-24T12:21:38+00:00",
+  "first_seen": "2026-11-25T04:25:02+00:00",
+  "alerts": [
+   "Germany and pandemic (ML)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "4462a50a9d2af209",
+  "stream": "wider",
+  "url": "https://ua.news/en/dovkolo-svitu/u-nimechchini-noutbuki-za-rik-podorozhchali-maizhe-na-15-der-spiegel",
+  "source": "ua.news",
+  "title_de": "Laptops in Germany became nearly 15% more expensive in a year — Der Spiegel",
+  "snippet_de": "In Germany ... According to statisticians, this was primarily due to a reduction in overproduction that emerged during the COVID-19 pandemic.",
+  "published": "2026-11-24T10:15:02+00:00",
+  "first_seen": "2026-11-25T04:25:02+00:00",
+  "alerts": [
+   "Germany and pandemic (ML)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "1e733c7e62368422",
+  "stream": "wider",
+  "url": "https://www.technology.org/2026/11/24/russia-nuclear-armed-satellite-sputnik-s-launch-december/",
+  "source": "technology.org",
+  "title_de": "Russia May Launch a Nuclear-Armed Satellite by December, Intelligence Reportedly Warns",
+  "snippet_de": "The assessment draws on intelligence shared among several NATO members. Germany's Federal Intelligence Service (BND) and the German armed forces are ...",
+  "published": "2026-11-24T23:06:17+00:00",
+  "first_seen": "2026-11-25T04:25:02+00:00",
+  "alerts": [
+   "Germany and nuclear weapon (ML)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "ea0597cdd33d19e0",
+  "stream": "wider",
+  "url": "https://www.chosun.com/english/world-en/2026/11/25/RB72HFZU6FDTHPGP5F3XMYVYUM/",
+  "source": "chosun.com",
+  "title_de": "Russia's Nuclear-Armed Satellite Could Launch Next Month",
+  "snippet_de": "NDR and Süddeutsche Zeitung reported on the 23rd that Germany's Federal Intelligence Service, the Bundeswehr, and Western intelligence and military ...",
+  "published": "2026-11-24T21:45:11+00:00",
+  "first_seen": "2026-11-25T04:25:02+00:00",
+  "alerts": [
+   "Germany and nuclear weapon (ML)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "7ef0f4969edc6cdf",
+  "stream": "wider",
+  "url": "https://bnn-news.com/world/nato-believes-russia-is-preparing-to-launch-a-satellite-equipped-with-nuclear-weapons-jqvj38x",
+  "source": "bnn-news.com",
+  "title_de": "NATO believes Russia is preparing to launch a satellite equipped with nuclear weapons",
+  "snippet_de": "Broadcasters NDR and WDR, along with the newspaper Süddeutsche Zeitung, reported that Western intelligence agencies—including Germany's BND and its ...",
+  "published": "2026-11-24T18:45:54+00:00",
+  "first_seen": "2026-11-25T04:25:02+00:00",
+  "alerts": [
+   "Germany and nuclear weapon (ML)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "481168e693ccbde5",
+  "stream": "wider",
+  "url": "https://ua.news/en/dovkolo-svitu/bundesver-gotuie-elektronnu-protidiiu-mozhlivii-iadernii-zbroyi-rf-u-kosmosi-der-spiegel",
+  "source": "ua.news",
+  "title_de": "Bundeswehr prepares countermeasures against possible Russian space weapons | UA.NEWS",
+  "snippet_de": "... nuclear weapons in space — Der Spiegel. In Germany, the Bundeswehr plans to use electronic warfare capabilities and offensive cyber capabilities ...",
+  "published": "2026-11-24T17:09:52+00:00",
+  "first_seen": "2026-11-25T04:25:02+00:00",
+  "alerts": [
+   "Germany and nuclear weapon (ML)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "391f6a7d7bbf3376",
+  "stream": "wider",
+  "url": "https://www.latintimes.com/russia-nuclear-antisatellite-weapon-december-2026-601723",
+  "source": "latintimes.com",
+  "title_de": "Western Intelligence Warns Russia Could Launch Nuclear Anti-Satellite Weapon by December 2026",
+  "snippet_de": "Germany's Federal Intelligence Service (BND) and Bundeswehr Space Command have assessed a December 2026 launch as likely and have briefed NATO ...",
+  "published": "2026-11-24T17:08:26+00:00",
+  "first_seen": "2026-11-25T04:25:02+00:00",
+  "alerts": [
+   "Germany and nuclear weapon (ML)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "5f5b9464a777f3cb",
+  "stream": "wider",
+  "url": "https://www.newsweek.com/what-happens-if-russia-detonates-a-nuclear-weapon-in-space-12762421",
+  "source": "newsweek.com",
+  "title_de": "What Happens if Russia Detonates a Nuclear Weapon In Space? - Newsweek",
+  "snippet_de": "... Germany's Space Command, that Moscow was preparing to put nuclear weapons in orbit. Germany's Space Command and the BND agency previously told ...",
+  "published": "2026-11-24T16:23:04+00:00",
+  "first_seen": "2026-11-25T04:25:02+00:00",
+  "alerts": [
+   "Germany and nuclear weapon (ML)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "518a25dd73757818",
+  "stream": "wider",
+  "url": "https://www.newser.com/story/400545/report-russia-could-put-nuke-in-orbit-within-weeks.html",
+  "source": "newser.com",
+  "title_de": "Report: Russia Could Put Nuke in Orbit Within Weeks - Newser",
+  "snippet_de": "Germany is publicly ringing alarm bells over intelligence reports indicating Russia could launch a nuclear weapon into space within weeks.",
+  "published": "2026-11-24T15:43:48+00:00",
+  "first_seen": "2026-11-25T04:25:02+00:00",
+  "alerts": [
+   "Germany and nuclear weapon (ML)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "636de0eee42ed56f",
+  "stream": "wider",
+  "url": "https://www.youtube.com/watch?v=bZFNE4W45p4",
+  "source": "youtube.com",
+  "title_de": "Germany: Russia May Launch Nuclear Weapon Into Orbit Within Weeks | WION - YouTube",
+  "snippet_de": "Space Armageddon | Germany: Russia May Launch Nuclear Weapon Into Orbit Within Weeks | WION. @WION 19 likes 4.5K views 6h ago. #russia. more.",
+  "published": "2026-11-24T14:22:36+00:00",
+  "first_seen": "2026-11-25T04:25:02+00:00",
+  "alerts": [
+   "Germany and nuclear weapon (ML)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "c303404387fc40b3",
+  "stream": "wider",
+  "url": "https://table.media/en/security/professional-briefing/602-india-delays-in-the-tkms-deal-brinkhaus-criticizes-procurement-policy",
+  "source": "table.media",
+  "title_de": "India: Delays in the TKMS deal + Brinkhaus criticizes procurement policy - Table.Briefings",
+  "snippet_de": "Defense I: Pistorius wants to have Ukrainian drones built in Germany ... Nuclear weapons in space: The German government is taking warnings about ...",
+  "published": "2026-11-24T14:16:32+00:00",
+  "first_seen": "2026-11-25T04:25:02+00:00",
+  "alerts": [
+   "Germany and nuclear weapon (ML)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "b9dc6b77d5659cbb",
+  "stream": "wider",
+  "url": "https://tvpworld.com/96654441/russia-may-launch-nuclear-armed-satellite-by-the-end-of-2026",
+  "source": "tvpworld.com",
+  "title_de": "Russia preparing to launch nuclear-armed satellite within weeks, German media report",
+  "snippet_de": "... Germany's public broadcasters WDR and NDR, and the daily newspaper Süddeutsche Zeitung. Space weapon. Intelligence warnings about a possible launch ...",
+  "published": "2026-11-24T14:13:43+00:00",
+  "first_seen": "2026-11-25T04:25:02+00:00",
+  "alerts": [
+   "Germany and nuclear weapon (ML)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "5d9dd055af3f8060",
+  "stream": "wider",
+  "url": "https://www.ibtimes.co.uk/germany-russia-nuclear-capable-satellite-security-concern-1834451",
+  "source": "ibtimes.co.uk",
+  "title_de": "Germany Expresses Concern Over Reports of Russia's Alleged Nuclear Space Weapon ...",
+  "snippet_de": "Germany is treating reports that Russia could launch a nuclear-capable satellite into orbit as a serious security concern, fearing such a move ...",
+  "published": "2026-11-24T13:33:32+00:00",
+  "first_seen": "2026-11-25T04:25:02+00:00",
+  "alerts": [
+   "Germany and nuclear weapon (ML)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "b30b13b6595a3690",
+  "stream": "wider",
+  "url": "https://londonlovesbusiness.com/berlin-warns-russia-could-launch-nuclear-weapon-into-space-within-weeks/",
+  "source": "londonlovesbusiness.com",
+  "title_de": "Berlin warns Russia 'could launch nuclear weapon into space within weeks' - London Business News",
+  "snippet_de": "WDR reported that Sputnik-S had been fully built and was being stored near Moscow. The claims are based on unnamed security officials. Germany's ...",
+  "published": "2026-11-24T13:08:59+00:00",
+  "first_seen": "2026-11-25T04:25:02+00:00",
+  "alerts": [
+   "Germany and nuclear weapon (ML)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "7aa201de913f15d3",
+  "stream": "wider",
+  "url": "https://news.laodong.vn/the-gioi/duc-canh-bao-nga-sap-dua-vu-khi-hat-nhan-len-vu-tru-kremlin-len-tieng-1805727.ldo",
+  "source": "news.laodong.vn",
+  "title_de": "Germany warns Russia is about to put nuclear weapons into space, Kremlin speaks out",
+  "snippet_de": "Germany declares special importance to information that Russia may put a nuclear weapon-carrying satellite into space before May...",
+  "published": "2026-11-24T10:51:36+00:00",
+  "first_seen": "2026-11-25T04:25:02+00:00",
+  "alerts": [
+   "Germany and nuclear weapon (ML)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "f6259953ccd8b365",
+  "stream": "wider",
+  "url": "https://uatv.ua/en/european-missiles-against-russia-why-france-is-concerned-about-germany-s-military-plans/",
+  "source": "uatv.ua",
+  "title_de": "European Missiles Against Russia: Why France Is Concerned About Germany's Military Plans",
+  "snippet_de": "Germany has no arsenal of its own and far less experience in this field. The expert notes that Berlin doesn't dispute the need for a shared framework, ...",
+  "published": "2026-11-24T10:47:49+00:00",
+  "first_seen": "2026-11-25T04:25:02+00:00",
+  "alerts": [
+   "Germany and nuclear weapon (ML)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "aa74d01df4a4aed2",
+  "stream": "wider",
+  "url": "https://news.liga.net/en/world/news/germany-has-stated-that-russia-is-incorporating-space-into-its-strategy-of-intimidation-and-blackmail",
+  "source": "news.liga.net",
+  "title_de": "Germany has stated that Russia is incorporating space into its strategy of intimidation and blackmail",
+  "snippet_de": "This is a machine translation of the original article in Ukrainian. It may contain errors. Germanynuclear weaponsspaceBundestagnuclear warNuclear ...",
+  "published": "2026-11-24T10:38:59+00:00",
+  "first_seen": "2026-11-25T04:25:02+00:00",
+  "alerts": [
+   "Germany and nuclear weapon (ML)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "35f610394bacb224",
+  "stream": "wider",
+  "url": "https://www.youtube.com/watch?v=6nlqTyWBqI4",
+  "source": "youtube.com",
+  "title_de": "Russia Planning Nuclear Weapon in Space? Germany Raises Alarm Over Suspected Satellite",
+  "snippet_de": "Is Russia planning to put a nuclear weapon in space? Germany is taking seriously reports that Moscow could be preparing to launch a satellite ...",
+  "published": "2026-11-24T10:26:07+00:00",
+  "first_seen": "2026-11-25T04:25:02+00:00",
+  "alerts": [
+   "Germany and nuclear weapon (ML)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "c959189f45694ef5",
+  "stream": "wider",
+  "url": "https://www.republicworld.com/world-news/nuclear-threat-from-space-german-intelligence-warns-russia-could-deploy-nuclear-weapon-in-orbit-2026-11-24-141727",
+  "source": "republicworld.com",
+  "title_de": "Nuclear Threat From Space? German Intelligence Warns Russia Could Deploy ... - Republic TV",
+  "snippet_de": "... Germany's Federal Intelligence Service (BND). In recent weeks, Bundeswehr experts have already briefed senior German politicians on the Russian ...",
+  "published": "2026-11-24T08:12:48+00:00",
+  "first_seen": "2026-11-25T04:25:02+00:00",
+  "alerts": [
+   "Germany and nuclear weapon (ML)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "187149292ba4bc6b",
+  "stream": "wider",
+  "url": "https://lansinginstitute.org/2026/11/24/russian-intelligence-services-in-germany-the-architecture-of-covert-influence-operational-resources-and-the-threat-to-german-sovereignty/",
+  "source": "lansinginstitute.org",
+  "title_de": "Russian Intelligence Services in Germany: The Architecture of Covert Influence, Operational ...",
+  "snippet_de": "Food Security · Geopolitics · Governance · Intelligence ops · Opinion ... Germany's strategic freedom of action. As we previously reported, the ...",
+  "published": "2026-11-24T13:58:12+00:00",
+  "first_seen": "2026-11-25T04:25:02+00:00",
+  "alerts": [
+   "Germany and food security (ML)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "10af3041c1a1b2d8",
+  "stream": "wider",
+  "url": "https://english.nv.ua/nation/u-s-urges-ukraine-and-russia-to-halt-energy-infrastructure-attacks-50662016.html",
+  "source": "english.nv.ua",
+  "title_de": "U.S. urges Ukraine and Russia to halt attacks on energy infrastructure and food supply chains",
+  "snippet_de": "... food security. According to Negrea, attacks in the Black Sea are ... Earlier, the leaders of Germany, France, the United Kingdom and Ukraine ...",
+  "published": "2026-11-24T09:08:29+00:00",
+  "first_seen": "2026-11-25T04:25:02+00:00",
+  "alerts": [
+   "Germany and food security (ML)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "eadfdcf88a3bad6e",
+  "stream": "wider",
+  "url": "https://www.pik-potsdam.de/en/news/latest-news/how-germany-can-achieve-its-climate-targets-cost-effectively",
+  "source": "pik-potsdam.de",
+  "title_de": "How Germany can achieve its climate targets cost-effectively",
+  "snippet_de": "Climate Change and Health Open submenu; Land Biosphere Dynamics Open ... How Germany can achieve its climate targets cost-effectively. Search ...",
+  "published": "2026-11-25T00:26:00+00:00",
+  "first_seen": "2026-11-25T04:25:02+00:00",
+  "alerts": [
+   "Germany and climate change (ML)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "09fb02ec3bd5f237",
+  "stream": "wider",
+  "url": "https://www.thefridaytimes.com/24-Nov-2026/cop31-global-south-demands-climate-justice-charity",
+  "source": "thefridaytimes.com",
+  "title_de": "After COP31: The Global South Demands Climate Justice, Not Charity - The Friday Times",
+  "snippet_de": "COP31's failure to secure meaningful commitments on fossil fuel transition and climate finance exposed the unequal burden of climate change, ...",
+  "published": "2026-11-24T17:57:23+00:00",
+  "first_seen": "2026-11-25T04:25:02+00:00",
+  "alerts": [
+   "Germany and climate change (ML)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "c734437d40b54106",
+  "stream": "wider",
+  "url": "https://www.bmz.de/en/news/press-releases/joint-press-release-bmukn-bmz-cop31-335072",
+  "source": "bmz.de",
+  "title_de": "UN Climate Change Conference in Antalya: No cover decision, but concrete progress on ...",
+  "snippet_de": "24 November 2026 | The 31st UNUnited Nations Climate Change Conference in Antalya has ended without a joint cover decision. Germany, the EU ...",
+  "published": "2026-11-24T17:29:45+00:00",
+  "first_seen": "2026-11-25T04:25:02+00:00",
+  "alerts": [
+   "Germany and climate change (ML)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "98bb729fb4ea1230",
+  "stream": "wider",
+  "url": "https://www.nationalobserver.com/2026/11/23/news/ai-chip-giant-nvidia-soars-ceo-huang-reinstated-after-trump-intervenes",
+  "source": "nationalobserver.com",
+  "title_de": "AI chip giant NVIDIA soars as CEO Huang reinstated after Trump intervenes",
+  "snippet_de": "Race Against Climate Change · Newsletters · Receipts with Max Fawcett ... Germany, Wednesday, Oct. 21, 2026. Photo by: Markus Schreiber / AP. Help ...",
+  "published": "2026-11-24T10:06:02+00:00",
+  "first_seen": "2026-11-25T04:25:02+00:00",
+  "alerts": [
+   "Germany and climate change (ML)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "f6d252408720b830",
+  "stream": "wider",
+  "url": "https://theclimatewatch.com/cop31-was-not-a-failure-argues-climate-strategist-ana-mulio-alvarez/",
+  "source": "theclimatewatch.com",
+  "title_de": "COP31 was not a failure, argues climate strategist Ana Mulio Alvarez",
+  "snippet_de": "... Climate Change Conference President of Negotiations Chris Bowen of ... Germany to give 52.5m euros to Bangladesh for climate change adaptation.",
+  "published": "2026-11-24T06:56:21+00:00",
+  "first_seen": "2026-11-25T04:25:02+00:00",
+  "alerts": [
+   "Germany and climate change (ML)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "3d5d5d80b94e303c",
+  "stream": "wider",
+  "url": "https://www.nortonrosefulbright.com/en-lu/insights/publications/2026/11/germany-draft-for-new-investment-screening-act",
+  "source": "nortonrosefulbright.com",
+  "title_de": "Germany: Draft for new Investment Screening Act - Norton Rose Fulbright",
+  "snippet_de": "Services. Practices. Antitrust and Competition · Banking and Finance · Climate Change and Sustainability ... Germany: Draft for new Investment Screening ...",
+  "published": "2026-11-23T23:34:26+00:00",
+  "first_seen": "2026-11-25T04:25:02+00:00",
+  "alerts": [
+   "Germany and climate change (ML)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "9b592d9b7a37282d",
+  "stream": "wider",
+  "url": "https://ground.news/article/tuv-ai-study-2026-four-out-of-five-use-ai-safety-concerns-are-growing",
+  "source": "ground.news",
+  "title_de": "Studies on AI Use: Four Out of Five Use AI - Companies Also Follow",
+  "snippet_de": "... Safety Concerns Are Growing. Four years of ChatGPT: 81 percent of citizens use generative artificial intelligence. Use is growing the most among ...",
+  "published": "2026-11-24T12:48:40+00:00",
+  "first_seen": "2026-11-25T04:25:02+00:00",
+  "alerts": [
+   "Germany and AI safety (ML)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "95eb9eb405cb6431",
+  "stream": "wider",
+  "url": "https://timesofindia.indiatimes.com/videos/international/germany-leads-in-industrial-ai-use-but-could-the-technology-put-jobs-at-risk/videoshow/136145001.cms",
+  "source": "timesofindia.indiatimes.com",
+  "title_de": "Germany Leads In Industrial AI Use, But Could The Technology Put Jobs At Risk?",
+  "snippet_de": "Germany Leads In Industrial AI Use, But Could The Technology Put Jobs At Risk? ... Germany may be doing better in artificial intelligence than many ...",
+  "published": "2026-11-25T00:50:14+00:00",
+  "first_seen": "2026-11-25T04:25:02+00:00",
+  "alerts": [
+   "Germany and AI risk (ML)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "d669ea3a85829435",
+  "stream": "wider",
+  "url": "https://www.mainpost.de/kitzingen/schwarzach-mehr-als-60-gaeste-bei-csu-veranstaltung-zur-krisenvorsorge-115756219",
+  "source": "mainpost.de",
+  "title_de": "Schwarzach: Mehr als 60 Gäste bei CSU-Veranstaltung zur Krisenvorsorge - Main-Post",
+  "snippet_de": "Fraktionsvorsitzender Reinhard Klos sprach über die Klinikfusion und deren Bedeutung für die Krisenvorsorge. Bezirksrätin Gerlinde Martin stellte das ...",
+  "published": "2026-11-24T23:07:24+00:00",
+  "first_seen": "2026-11-25T04:25:02+00:00",
+  "alerts": [
+   "Preparedness (German)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "45d75d234f6f7480",
+  "stream": "wider",
+  "url": "https://www.pforzheim.de/stadt/aktuelles/pressemeldungen/s1/article/detail/News/neue-website-und-flyer-staerken-die-persoenliche-krisenvorsorge-der-bevoelkerung.html",
+  "source": "pforzheim.de",
+  "title_de": "Neue Website und Flyer stärken die persönliche Krisenvorsorge der Bevölkerung - Stadt Pforzheim",
+  "snippet_de": "... Deutschland zuverlässig verfügbar. ... Die Übersicht soll dabei helfen, die persönliche Krisenvorsorge Schritt für Schritt in den eigenen Alltag zu ...",
+  "published": "2026-11-24T20:58:28+00:00",
+  "first_seen": "2026-11-25T04:25:02+00:00",
+  "alerts": [
+   "Preparedness (German)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "0503ddaea088a57d",
+  "stream": "wider",
+  "url": "https://www.indexbox.io/de/blog/calf-milk-replacers-market-forecast-to-2035-driven-by-biosecurity-adoption-and-precision-nutrition/",
+  "source": "indexbox.io",
+  "title_de": "Kälbermilchaustauscher bis 2035: Biosicherheit und Präzisionsernährung treiben das Wachstum",
+  "snippet_de": "Prognose für den Markt für Kälbermilchaustauscher bis 2035: Biosicherheit und Präzisionsernährung als Wachstumstreiber. Zusammenfassung. Laut dem ...",
+  "published": "2026-11-24T17:09:25+00:00",
+  "first_seen": "2026-11-25T04:25:02+00:00",
+  "alerts": [
+   "Biosecurity (German)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "f5cf3d51a535bfe7",
+  "stream": "wider",
+  "url": "https://www.dgs-magazin.de/themen/fuetterung-tiergesundheit/article-11797089-175625/biosicherheit-schwachstellen-pruefen-.html",
+  "source": "dgs-magazin.de",
+  "title_de": "Biosicherheit: Schwachstellen prüfen - DGS MAGAZIN",
+  "snippet_de": "Biosicherheit ist für die Seuchenbekämpfung von ausschlaggebender Bedeutung. Tierarzt Thorsten Fiegenbaum von der Praxis am Bergweg ...",
+  "published": "2026-11-24T03:36:44+00:00",
+  "first_seen": "2026-11-25T04:25:02+00:00",
+  "alerts": [
+   "Biosecurity (German)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
   "id": "b8dea6c6b70003b2",
   "stream": "core",
   "url": "https://www.vietnam.vn/de/tong-bi-thu-chu-tich-nuoc-to-lam-du-le-ky-niem-80-nam-ngay-thanh-lap-hoi-chu-thap-do-viet-nam",
