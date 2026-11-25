@@ -1,5 +1,95 @@
 [
  {
+  "id": "f982f456d6c050de",
+  "stream": "core",
+  "url": "https://www.tagesspiegel.de/internationales/liveblog/nato-beitritt-der-ukraine-merz-nennt-die-nichtaufnahme-kyjiws-2008-einen-fehler-16206302.html",
+  "source": "tagesspiegel.de",
+  "title_de": "Mehr als 700.000 Russen sollen im Ukraine-Krieg gefallen sein - Tagesspiegel",
+  "snippet_de": "Für den Fall schwerer Schäden durch russische Angriffe müssen die Städte zudem die Versorgung der Bevölkerung mit Trink- und Brauchwasser über mobile ...",
+  "published": "2026-11-25T03:48:30+00:00",
+  "first_seen": "2026-11-25T05:28:27+00:00",
+  "alerts": [
+   "Supply of the population"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "7961f223ca5f7b92",
+  "stream": "core",
+  "url": "https://www.verbaende.com/news/pressemitteilung/energie-intelligent-nutzen-kaelteforum-zeigt-loesungen-fuer-die-tiefkuehlwirtschaft-175729/",
+  "source": "verbaende.com",
+  "title_de": "Energie intelligent nutzen: Kälteforum zeigt Lösungen für die Tiefkühlwirtschaft",
+  "snippet_de": "Deutschland ist im Verteidigungsfall eine wichtige logistische ... Für eine verlässliche Versorgung der Bevölkerung braucht es deshalb ...",
+  "published": "2026-11-25T03:47:34+00:00",
+  "first_seen": "2026-11-25T05:28:27+00:00",
+  "alerts": [
+   "Supply of the population"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "0b60a9008db2009f",
+  "stream": "wider",
+  "url": "https://carnegieendowment.org/programs/nuclear-policy/proliferation-news/proliferation-news-november-24-2026",
+  "source": "carnegieendowment.org",
+  "title_de": "Proliferation News November 24, 2026 | Carnegie Endowment for International Peace",
+  "snippet_de": "IN THIS ISSUE: Germany taking seriously reports Russia may be planning to launch nuclear weapons into space, US warned supplying nuclear-powered ...",
+  "published": "2026-11-25T03:06:24+00:00",
+  "first_seen": "2026-11-25T05:28:27+00:00",
+  "alerts": [
+   "Germany and nuclear weapon (ML)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "3f9f2d651d6b0a12",
+  "stream": "wider",
+  "url": "https://english.publictv.in/german-intelligence-assessments-warn-russia-could-place-a-nuclear-weapon-in-orbit-by-year-end/",
+  "source": "english.publictv.in",
+  "title_de": "German intelligence assessments warn Russia could place a nuclear weapon in orbit by year-end",
+  "snippet_de": "Germany's military Space Command reportedly assessed that a December launch was possible. German Chancellor Friedrich Merz called the reports “ ...",
+  "published": "2026-11-24T23:07:27+00:00",
+  "first_seen": "2026-11-25T05:28:27+00:00",
+  "alerts": [
+   "Germany and nuclear weapon (ML)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "70e44f1117dd5cae",
+  "stream": "wider",
+  "url": "https://www.kas.de/de/web/ukraine/blickpunkt-ukraine/detail/-/content/ukrainer-im-ausland-identitaet-wahren-rueckkehr-foerdern-russischem-einfluss-entgegenwirken",
+  "source": "kas.de",
+  "title_de": "Ukrainer im Ausland: Identität wahren, Rückkehr fördern, russischem Einfluss entgegenwirken",
+  "snippet_de": "soc., Leiterin des Labors für soziologische Studien am Institut für nationale Resilienz und Sicherheit. Alla Petrenko-Lysak, Dr. rer. soc ...",
+  "published": "2026-11-24T07:12:47+00:00",
+  "first_seen": "2026-11-25T05:28:27+00:00",
+  "alerts": [
+   "National resilience (German)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
   "id": "2b9fc1fed3dccc93",
   "stream": "core",
   "url": "https://www.nwzonline.de/lokales/ammerland/dlrg-bad-zwischenahn-besucht-bundestag-und-innenministerium-YHKHJLFXTBC5FGGVIEBT2YCP5Q.html",
