@@ -1,5 +1,2257 @@
 [
  {
+  "id": "d311818b20529325",
+  "stream": "core",
+  "url": "https://www.lto.de/recht/hintergruende/h/bmi-erfundene-schutzluecke-informationsfreiheit-kritische-infrastruktur",
+  "source": "lto.de",
+  "title_de": "BMI will Informationsfreiheit einschränken - LTO",
+  "snippet_de": "Geschützt werden mit der geplanten Neuregelung laut Entwurfsbegründung neben den kritischen Infrastrukturen nach dem KRITIS-Dachgesetz insbesondere ...",
+  "published": "2026-11-27T00:23:21+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "KRITIS umbrella act"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "ed0b7a17655decfc",
+  "stream": "core",
+  "url": "https://www.buchkaffee.de/shop/item/9783406854545/dachgesetz-zur-starkung-der-physischen-resilienz-kritischer-anlagen-kritisdachg-von-christian-stelter-sebastian-nellesen-mark-ennulat-u-a-gebundenes-buch",
+  "source": "buchkaffee.de",
+  "title_de": "Dachgesetz zur Stärkung der physischen Resilienz kritischer Anlagen. KRITISDachG",
+  "snippet_de": "Kaufen Sie Dachgesetz zur Stärkung der physischen Resilienz kritischer Anlagen. KRITISDachG von Christian Stelter/Sebastian Nellesen/Mark Ennulat ...",
+  "published": "2026-11-25T13:03:16+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "KRITIS umbrella act"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "e8ffb24a6f9982cf",
+  "stream": "core",
+  "url": "https://www.werne-plus.de/politisch/parteien/2026/gruenkohl-essen-der-cdu-mit-dem-regierungspraesidenten/",
+  "source": "werne-plus.de",
+  "title_de": "Grünkohl-Essen der CDU mit dem Regierungspräsidenten - Werne Plus",
+  "snippet_de": "... Staats- und Regierungsfunktionen in Krisen, im Spannungs- oder Verteidigungsfall, damit die öffentliche Verwaltung handlungsfähig bleibt. Derzeit ...",
+  "published": "2026-11-26T06:46:21+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "Continuity of government"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "a421ac3b97ad3566",
+  "stream": "core",
+  "url": "https://www.sueddeutsche.de/bayern/gesundheitssicherheit-krisenuebungen-kliniken-aerzte-bayern-li.3586703",
+  "source": "sueddeutsche.de",
+  "title_de": "Gesundheitssystem soll für Krisen wie Corona gewappnet werden - Bayern - SZ.de",
+  "snippet_de": "Auch in Ausnahmesituationen wie einer Pandemie oder nach einem Terroranschlag muss die gesundheitliche Versorgung der Bevölkerung sichergestellt sein.",
+  "published": "2026-11-26T21:01:24+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "Supply of the population",
+   "Pandemic (German)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "484c785984ca8a20",
+  "stream": "core",
+  "url": "https://oberpfalzecho.de/politik/kastl-will-seine-krisenvorsorge-auf-den-pruefstand-stellen",
+  "source": "oberpfalzecho.de",
+  "title_de": "Kastl will seine Krisenvorsorge auf den Prüfstand stellen - Oberpfalzecho",
+  "snippet_de": "... Versorgung der Bevölkerung gewährleistet werden können. Besondere Bedeutung kommt dabei der Trinkwasserversorgung, der Abwasserentsorgung, der ...",
+  "published": "2026-11-26T19:02:09+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "Supply of the population"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "0019fdfcd0e95da7",
+  "stream": "core",
+  "url": "https://www.vietnam.vn/de/tao-chuyen-bien-tu-bo-tri-can-bo-lanh-dao-cap-xa",
+  "source": "vietnam.vn",
+  "title_de": "Veränderungen durch die Einbindung von Führungskräften auf Gemeindeebene herbeiführen.",
+  "snippet_de": "Die Übung zur Verteidigung der Bezirkszone wurde erfolgreich ... Versorgung der Bevölkerung gerecht werden. Thu Chung. Quelle: Báo Quảng ...",
+  "published": "2026-11-26T09:39:58+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "Supply of the population"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "a6a2835d0ecb7c01",
+  "stream": "core",
+  "url": "https://www.cleanthinking.de/bundeslastverteiler/",
+  "source": "cleanthinking.de",
+  "title_de": "Bundeslastverteiler: Wer in der Gaskrise Gas zuteilt - Cleanthinking.de",
+  "snippet_de": "Wer in einer Gasmangellage noch Gas bekommt, steht in Deutschland in zwei Regelwerken: dem Energiesicherungsgesetz von 1974 und der ...",
+  "published": "2026-11-26T03:01:16+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "Energy security act"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "f7edb378725df7fc",
+  "stream": "core",
+  "url": "https://ms-aktuell.de/welt/busbrand-ahrweiler-26-11-2026/",
+  "source": "ms-aktuell.de",
+  "title_de": "Drei Busse brennen aus und gefährden Stromversorgung einer Stadt - Münster Aktuell",
+  "snippet_de": "Das Bundesamt für Bevölkerungsschutz und Katastrophenhilfe weist darauf hin, dass eine zuverlässige Stromversorgung Voraussetzung für zahlreiche ...",
+  "published": "2026-11-26T18:35:18+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "Bundesamt für Bevölkerungsschutz"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "246b2e5d97bb6db2",
+  "stream": "core",
+  "url": "https://www.brennessel.com/innenminister-dobrindt-steht-2027-mehr-geld-zur-verfuegung/",
+  "source": "brennessel.com",
+  "title_de": "Innenminister Dobrindt steht 2027 mehr Geld zur Verfügung - brennessel magazin",
+  "snippet_de": "... Bundesamt für Bevölkerungsschutz und Katastrophenhilfe geplant. Gespart wird dagegen im Bereich Integration und Migration. – BR. Teilen mit: Auf X ...",
+  "published": "2026-11-26T17:24:31+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "Bundesamt für Bevölkerungsschutz"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "84c2d86e76504f8b",
+  "stream": "core",
+  "url": "https://www.netz-trends.de/mobilfunk-krisenvorsorge-notstrom-november-2026/",
+  "source": "netz-trends.de",
+  "title_de": "Mobilfunk im Krisenfall: Notstrom soll Basisstationen sichern - Netz Trends",
+  "snippet_de": "Das deutsche Bundesamt für Bevölkerungsschutz und Katastrophenhilfe (BBK) empfiehlt, sich über verschiedene Wege warnen zu lassen. Seine Hinweise ...",
+  "published": "2026-11-26T16:53:07+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "Bundesamt für Bevölkerungsschutz"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "bb36ee63965ac90f",
+  "stream": "core",
+  "url": "https://www.netz-trends.de/starkregen-haus-rueckstau-schutz/",
+  "source": "netz-trends.de",
+  "title_de": "Starkregen am Haus: Freie Dachrinnen reichen nicht | Netz Trends",
+  "snippet_de": "Das deutsche Bundesamt für Bevölkerungsschutz und Katastrophenhilfe beschreibt, wie Regenwasser bei unzureichender Versickerung oder Ableitung ...",
+  "published": "2026-11-26T16:39:34+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "Bundesamt für Bevölkerungsschutz"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "ba67ac2138148cfc",
+  "stream": "core",
+  "url": "https://www.instagram.com/p/DgK7ezTIkJ_/",
+  "source": "instagram.com",
+  "title_de": "Das Bundesamt für Bevölkerungsschutz (BABS) bewertet, welche Katastrophen und ... - Instagram",
+  "snippet_de": "Fakten zu Strom und Versorgungssicherheit in der Schweiz: Das Bundesamt für Bevölkerungsschutz (BABS) bewertet, welche Katastrophen und Notlagen ...",
+  "published": "2026-11-26T16:14:37+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "Bundesamt für Bevölkerungsschutz"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "fa9acd48ddd2e826",
+  "stream": "core",
+  "url": "https://www.vdi-nachrichten.com/technik/informationstechnik/handyzahlung-ohne-netz-wie-sicher-ware-der-digitale-euro/",
+  "source": "vdi-nachrichten.com",
+  "title_de": "Handyzahlung ohne Netz: Wie sicher wird der digitale Euro? - VDI nachrichten",
+  "snippet_de": "... Bundesamt für Bevölkerungsschutz und Katastrophenhilfe heute empfiehlt. „Da könnte in Zukunft auch drinstehen: Halten Sie Ihr Digital-Euro-Wallet ...",
+  "published": "2026-11-26T15:59:49+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "Bundesamt für Bevölkerungsschutz"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "ef9649d77fa94787",
+  "stream": "core",
+  "url": "https://www.br.de/nachrichten/meldung/innenminister-dobrindt-steht-2027-mehr-geld-zur-verfuegung%2C30082affe",
+  "source": "br.de",
+  "title_de": "Innenminister Dobrindt steht 2027 mehr Geld zur Verfügung | BR24",
+  "snippet_de": "Höhere Ausgaben sind unter anderem für Bundespolizei, Bundeskriminalamt und das Bundesamt für Bevölkerungsschutz und Katastrophenhilfe geplant.",
+  "published": "2026-11-26T15:29:25+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "Bundesamt für Bevölkerungsschutz"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "703c549fecce3430",
+  "stream": "core",
+  "url": "https://www.netzwelt.de/news/261341-haben-15-dab-plus-radios-getestet-testsieger-warnt-selbst-ohne-handynetz-katastrophen.html",
+  "source": "netzwelt.de",
+  "title_de": "Wir haben 15 DAB+-Radios getestet: Unser Testsieger warnt selbst ohne Handynetz vor ...",
+  "snippet_de": "Auch deshalb empfiehlt euch das Bundesamt für Bevölkerungsschutz und Katastrophenschutz, Vorräte und eine Notausrüstung anzulegen. Dazu gehört ...",
+  "published": "2026-11-26T15:13:09+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "Bundesamt für Bevölkerungsschutz"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "d25217fce312ab99",
+  "stream": "core",
+  "url": "https://www.zdfheute.de/politik/deutschland/asyl-rueckkehr-abschiebung-zentrum-ruanda-kosten-union-100.html",
+  "source": "zdfheute.de",
+  "title_de": "Ruanda-Pläne: Union nennt erstmals Kosten für Abschiebezentren - ZDFheute",
+  "snippet_de": "Auch die Ausgaben beim Bundesamt für Bevölkerungsschutz und Katastrophenhilfe sollen steigen. Prof. Daniel Thym. Erneut laden.",
+  "published": "2026-11-26T13:28:56+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "Bundesamt für Bevölkerungsschutz"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "d29f2d1ac7d31b28",
+  "stream": "core",
+  "url": "https://ch.jooble.org/jdp/-6199268099104005981",
+  "source": "ch.jooble.org",
+  "title_de": "Chef de Projet Construction — Ouvrages de Protection bei Bundesamt für Bevölkerungsschutz BABS",
+  "snippet_de": "Le Bundesamt für Bevölkerungsschutz BABS à Berne recherche un ingénieur civil expérimenté pour diriger des projets de protection et construction, ...",
+  "published": "2026-11-26T13:11:51+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "Bundesamt für Bevölkerungsschutz"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "0b3a241b85c737f3",
+  "stream": "core",
+  "url": "https://www.ad-hoc-news.de/wissenschaft/telekomnetze-bundesnetzagentur-fordert-notstrom-fuer-wichtige-basisstationen/70558117",
+  "source": "ad-hoc-news.de",
+  "title_de": "Telekomnetze: Bundesnetzagentur fordert Notstrom für wichtige Basisstationen",
+  "snippet_de": "Ergänzend zu den behördlichen und netzbetreiberseitigen Maßnahmen weist das Bundesamt für Bevölkerungsschutz und Katastrophenhilfe auf Vorkehrungen ...",
+  "published": "2026-11-26T12:53:40+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "Bundesamt für Bevölkerungsschutz"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "e5e0a48f7f4276b6",
+  "stream": "core",
+  "url": "https://www.harzkurier.de/harzkurier/bad-lauterberg/article413783743/grossbrand-in-bad-lauterberg-feuerwehr-sperrt-industriegebiet-in-barbis.html",
+  "source": "harzkurier.de",
+  "title_de": "Großbrand in Bad Lauterberg: Feuerwehr sperrt Industriegebiet in Barbis - Harzkurier",
+  "snippet_de": "Dichter Rauch, ein Großbrand in einer Lagerhalle und mehrere Verletzte. Im Industriegebiet Barbis muss die Feuerwehr das Areal sperren.",
+  "published": "2026-11-26T12:25:00+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "Bundesamt für Bevölkerungsschutz"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "49db248af6e90c99",
+  "stream": "core",
+  "url": "https://de.linkedin.com/jobs/view/krisenmanagerin-krisenmanager-m-w-d-im-referat-l-7-%E2%80%9Einternes-krisen%C2%ADmanagement%E2%80%9C-at-bundesamt-f%C3%BCr-bev%C3%B6lkerungsschutz-und-katastrophenhilfe-bbk-4493823094",
+  "source": "de.linkedin.com",
+  "title_de": "Krisenmanagerin / Krisenmanager (m/w/d) im Referat L.7 „Internes Krisenmanagement“",
+  "snippet_de": "... Bundesamt für Bevölkerungsschutz und Katastrophenhilfe (BBK) in Bonn. Position mit Vollzeit Management. Sehen Sie sich Verantwortlichkeiten ...",
+  "published": "2026-11-26T11:54:07+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "Bundesamt für Bevölkerungsschutz"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "d7eea67f90a04cb9",
+  "stream": "core",
+  "url": "https://nius.de/politik/return-hubs-union-nennt-erstmals-kosten-fuer-ruanda-plaene",
+  "source": "nius.de",
+  "title_de": "Mindestens 5 Millionen Euro: Return Hubs: Union nennt erstmals Kosten für Ruanda-Pläne",
+  "snippet_de": "Auch das Bundesamt für Bevölkerungsschutz und Katastrophenhilfe soll mehr Geld erhalten. Beim Bundesamt für Migration und Flüchtlinge sinken die ...",
+  "published": "2026-11-26T11:41:02+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "Bundesamt für Bevölkerungsschutz"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "5285ba5d0d6ec54f",
+  "stream": "core",
+  "url": "https://www.polizeinews.ch/2026/11/26/ueber-20-jahre-erfahrung-marcel-odermatt-uebernimmt-leitung-des-bevoelkerungsschutzes/",
+  "source": "polizeinews.ch",
+  "title_de": "Über 20 Jahre Erfahrung: Marcel Odermatt übernimmt Leitung des Bevölkerungsschutzes",
+  "snippet_de": "Das Bundesamt für Bevölkerungsschutz unterscheidet zwischen Informationen, Warnungen vor möglichen Gefahren und Alarmierungen bei unmittelbarer Gefahr ...",
+  "published": "2026-11-26T10:59:13+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "Bundesamt für Bevölkerungsschutz"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "9921d401951fceb4",
+  "stream": "core",
+  "url": "https://www.news.de/lokales/860221141/gasversorgung-ausgefallen-hilchenbach-am-26-11-2026-warnmeldung-siegen-wittgenstein-via-mowas-heute/1/",
+  "source": "news.de",
+  "title_de": "Ausfall der Gasversorgung Hilchenbach heute - News.de",
+  "snippet_de": "Im Fall eines Ausfalls der Gasversorgung empfiehlt das zuständige Bundesamt für Bevölkerungsschutz und Katastrophenhilfe (BBK) Folgendes:.",
+  "published": "2026-11-26T10:53:01+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "Bundesamt für Bevölkerungsschutz"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "975c4b752dd01ec9",
+  "stream": "core",
+  "url": "https://www.hna.de/verbraucher/hamsterkaeufe-durch-fake-news-wie-geruechte-fuer-panik-sorgen-zr-94609136.html",
+  "source": "hna.de",
+  "title_de": "Lüge über Weltkrieg löst Hamsterkäufe aus: Wie Gerüchte im Netz zu Panikkäufen führen",
+  "snippet_de": "Auch in Deutschland gibt es seit Jahren offizielle Empfehlungen für einen Lebensmittelvorrat: Das Bundesamt für Bevölkerungsschutz und ...",
+  "published": "2026-11-26T10:39:22+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "Bundesamt für Bevölkerungsschutz"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "21e71ad18279fe26",
+  "stream": "core",
+  "url": "https://live.deutsche-boerse.com/nachrichten/Union-verteidigt-Ruanda-Plaene---und-nennt-erstmals-Zahlen-88acc121-005e-478c-a6cc-bf2826477a58",
+  "source": "live.deutsche-boerse.com",
+  "title_de": "Union verteidigt Ruanda-Pläne - und nennt erstmals Zahlen - Börse Frankfurt",
+  "snippet_de": "Auch die Ausgaben beim Bundesamt für Bevölkerungsschutz und Katastrophenhilfe sollen steigen. Die Gesamtausgaben des Bundesamts für Migration und ...",
+  "published": "2026-11-26T10:27:07+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "Bundesamt für Bevölkerungsschutz"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "7d25ff6419df0d01",
+  "stream": "core",
+  "url": "https://ms-aktuell.de/welt/brand-dornstadt-26-11-2026/",
+  "source": "ms-aktuell.de",
+  "title_de": "Autofahrer rettet 80-Jährige aus brennendem Wohnhaus in Dornstadt - Münster Aktuell",
+  "snippet_de": "Das Bundesamt für Bevölkerungsschutz und Katastrophenhilfe warnt ausdrücklich davor, stark verrauchte Räume zu betreten. Bereits wenige Atemzüge ...",
+  "published": "2026-11-26T10:21:51+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "Bundesamt für Bevölkerungsschutz"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "9996d9a5b1d71681",
+  "stream": "core",
+  "url": "https://www.presseportal.de/pm/151515/6398348",
+  "source": "presseportal.de",
+  "title_de": "Sachsenlotto-Rubbelkalender besucht sein Motiv Schloss Moritzburg - Presseportal",
+  "snippet_de": "Sächsische Lotto-GmbH - Schloss Moritzburg gehört für viele Menschen in Sachsen zur Weihnachtszeit ...✚ Mehr lesen.",
+  "published": "2026-11-26T09:31:34+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "Bundesamt für Bevölkerungsschutz"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "46127d2b3faa983b",
+  "stream": "wider",
+  "url": "https://www.reuters.com/world/eu-leaders-wrestle-with-seven-year-budget-ukraine-financing-they-seek-december-2026-11-26/",
+  "source": "reuters.com",
+  "title_de": "France and Germany want deal by year-end to 'Le Pen-proof' next EU budget and Ukraine funding",
+  "snippet_de": "... pandemic debt repayment; EU seeks €45 billion joint borrowing for 2027 ... Germany, Sweden, the Netherlands and Finland, and those that on ...",
+  "published": "2026-11-27T02:32:57+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "Germany and pandemic (ML)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "07738f5dce9233bb",
+  "stream": "wider",
+  "url": "https://www.reutersconnect.com/item/news-conference-on-covid-19-pandemic-in-berlin/dGFnOnJldXRlcnMuY29tLDIwMjA6bmV3c21sX1JDMk5OSzkwSEQxSw?lastViewed=dGFnOnJldXRlcnMuY29tLDIwMjA6bmV3c21sX1JDMk5OSzlVS0lMUg&position=2",
+  "source": "reutersconnect.com",
+  "title_de": "Licensable picture: News conference on COVID-19 pandemic, in Berlin | Reuters Connect",
+  "snippet_de": "... pandemic, in Berlin, Germany December 15, 2020. Tobias Schwarz/Pool via REUTERS. Image. Loading licenses... Add to cart. Share Item. Details.",
+  "published": "2026-11-27T00:13:40+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "Germany and pandemic (ML)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "5f05e01a1765d0df",
+  "stream": "wider",
+  "url": "https://www.trtworld.com/article/18779753d1c4",
+  "source": "trtworld.com",
+  "title_de": "France rejects further EU budget cuts as Germany pushes for spending reductions",
+  "snippet_de": "... Germany clash over EU's next long-term budget. / AP. French ... pandemic and enacting a bloc-wide digital services tax. \"We want it to ...",
+  "published": "2026-11-26T23:43:42+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "Germany and pandemic (ML)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "089e6e066859f89f",
+  "stream": "wider",
+  "url": "https://ground.news/article/landtag-no-corona-investigative-committee-in-landtag",
+  "source": "ground.news",
+  "title_de": "No Corona Investigative Committee in Landtag - Ground News",
+  "snippet_de": "The debate in the Parliament on the Corona pandemic is controversial and the vote in the Parliament in Mainz is clear ... Germany· 4 hours ago ...",
+  "published": "2026-11-26T19:47:59+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "Germany and pandemic (ML)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "089eca26dcddc41a",
+  "stream": "wider",
+  "url": "https://www.latintimes.com/germany-2027-budget-defense-spending-borrowing-601880",
+  "source": "latintimes.com",
+  "title_de": "Merz to Germany: \"We Can't Afford Everything\" as Debt Nears All-Time High",
+  "snippet_de": "Germany's borrowing was higher only during the COVID-19 pandemic. Merz acknowledged that Germany's predicament is structural, not merely a ...",
+  "published": "2026-11-26T16:47:22+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "Germany and pandemic (ML)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "77a951587b0da823",
+  "stream": "wider",
+  "url": "https://www.nacionale.com/en/articles/germany-two-more-difficult-years-trump-fratzscher",
+  "source": "nacionale.com",
+  "title_de": "Germany must prepare for two more difficult years with Trump, Fratzscher says - Nacionale",
+  "snippet_de": "Germany must prepare for two more difficult years with Trump, Fratzscher says ... Putin showed 'restraint' by not using nuclear weapons, Trump's son-in- ...",
+  "published": "2026-11-26T23:28:12+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "Germany and nuclear weapon (ML)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "a6c4ae306792d354",
+  "stream": "wider",
+  "url": "https://cbs12.com/news/nation-world/kushner-says-putin-has-shown-restraint-by-not-using-nuclear-weapons-in-ukraine",
+  "source": "cbs12.com",
+  "title_de": "Kushner says Putin has 'shown restraint' by not using nuclear weapons in Ukraine",
+  "snippet_de": "BERLIN, GERMANY - NOVEMBER 19: US President Donald Trump's son-in-law Jared Kushner attends a joint press conference alongside US Special Envoy ...",
+  "published": "2026-11-26T22:53:48+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "Germany and nuclear weapon (ML)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "b661f1d123969c24",
+  "stream": "wider",
+  "url": "https://www.theguardian.com/world/2026/nov/26/what-would-be-the-fallout-from-a-nuclear-armed-satellite-detonated-into-space",
+  "source": "theguardian.com",
+  "title_de": "What would be the fallout from a nuclear-armed satellite detonated into space? - The Guardian",
+  "snippet_de": "... Explore more on these topics. Nuclear weapons · Russia · Europe · Satellites · Space · Germany · explainers. Share. Reuse this content. More on this ...",
+  "published": "2026-11-26T18:39:14+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "Germany and nuclear weapon (ML)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "96ffc23410fbef94",
+  "stream": "wider",
+  "url": "https://www.aol.co.uk/articles/fallout-nuclear-armed-satellite-detonated-181333000.html",
+  "source": "aol.co.uk",
+  "title_de": "What would be the fallout from a nuclear-armed satellite detonated into space? - AOL UK",
+  "snippet_de": "... nuclear weapon to affect. How long would it take ... Germany taking seriously reports Russia may be planning to launch nuclear weapons into space.",
+  "published": "2026-11-26T18:33:38+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "Germany and nuclear weapon (ML)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "ec7287c79c376710",
+  "stream": "wider",
+  "url": "https://www.ladbible.com/news/world-news/nuclear-satellite-russia-impact-rumours-space-world-157122-20261126",
+  "source": "ladbible.com",
+  "title_de": "Expert explains how alleged nuclear satellite 'would raise the stakes in every confrontation ...",
+  "snippet_de": "The latest news coming out of Russia was particularly alarming, with reports from Germany claiming that Putin and co are readying a nuclear satellite ...",
+  "published": "2026-11-26T15:39:43+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "Germany and nuclear weapon (ML)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "76bf56706d1cd394",
+  "stream": "wider",
+  "url": "https://www.egyptindependent.com/putin-showed-restraint-by-not-using-nuclear-weapons-kushner-says/",
+  "source": "egyptindependent.com",
+  "title_de": "Putin showed 'restraint' by not using nuclear weapons, Kushner says - Egypt Independent",
+  "snippet_de": "... Germany, on November 19. Nadja Wohlleben/Getty Images. Facebook X LinkedIn. Russian President Vladimir Putin has “shown restraint” by not using ...",
+  "published": "2026-11-26T14:41:56+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "Germany and nuclear weapon (ML)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "b9031471802f7b03",
+  "stream": "wider",
+  "url": "https://hoodline.com/2026/11/germany-takes-russian-nuclear-satellite-reports-seriously-nato-vows-space-defense/",
+  "source": "hoodline.com",
+  "title_de": "Germany Takes Russian Nuclear Satellite Reports Seriously, NATO Vows Space Defense",
+  "snippet_de": "Germany and NATO Respond. German Chancellor Friedrich Merz warned that the reports underscore the potential for further escalation by Moscow. He said ...",
+  "published": "2026-11-26T12:53:38+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "Germany and nuclear weapon (ML)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "e6870f695e47f158",
+  "stream": "wider",
+  "url": "https://www.breitbart.com/europe/2026/11/25/nato-vows-to-defend-against-alleged-russian-space-nuke-starlink-killer34238862/",
+  "source": "breitbart.com",
+  "title_de": "NATO Vows to Defend Against Alleged Russian Space Nuke Satellite Killer - Breitbart News",
+  "snippet_de": "Although it is unclear which Western intelligence agencies discovered this information, it is alleged to have leaked from Germany first, and per ...",
+  "published": "2026-11-26T08:53:01+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "Germany and nuclear weapon (ML)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "3d364deb3eb3df71",
+  "stream": "wider",
+  "url": "https://www.newsmax.com/newsfront/germany-warning-friedrich-merz/2026/11/25/id/1277545/",
+  "source": "newsmax.com",
+  "title_de": "Germany's Merz Says Russia Escalating, 60 Days to Space Nuclear Weapon - Newsmax",
+  "snippet_de": "Germany is warning that Russia could take a dangerous new step in its confrontation with the West within the next 60 days.",
+  "published": "2026-11-26T07:50:57+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "Germany and nuclear weapon (ML)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "4b0cef43cbb3942d",
+  "stream": "wider",
+  "url": "https://www.thetrumpet.com/36094-germanys-mysterious-business-with-uranium-enrichment",
+  "source": "thetrumpet.com",
+  "title_de": "Germany's Mysterious Business With Uranium Enrichment - theTrumpet.com",
+  "snippet_de": "While Germany has sworn never to produce nuclear weapons, some fear it will break that promise. Germany is conducting “active research and development ...",
+  "published": "2026-11-26T04:57:10+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "Germany and nuclear weapon (ML)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "edc8432472429c0e",
+  "stream": "wider",
+  "url": "https://en.yenisafak.com/world/germany-urges-russia-to-show-peace-talk-readiness-with-black-sea-ceasefire-3726030",
+  "source": "en.yenisafak.com",
+  "title_de": "Germany urges Russia to show peace talk readiness with Black Sea ceasefire",
+  "snippet_de": "... Germany's strong solidarity with Romania as both an EU partner and a NATO ally. Food security and Ukraine's self-defense. Wadephul warned that ...",
+  "published": "2026-11-26T17:59:38+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "Germany and food security (ML)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "4c0b0f1f914c47fb",
+  "stream": "wider",
+  "url": "https://www.gov.uk/government/statistics/united-kingdom-food-security-digest-2026/united-kingdom-food-security-digest-2026",
+  "source": "gov.uk",
+  "title_de": "United Kingdom Food Security Digest 2026 - GOV.UK",
+  "snippet_de": "... food security. As ... In 2025, 44% of total FFD imports (by value) came from 5 countries: Netherlands, France, Ireland, Belgium and Germany.",
+  "published": "2026-11-26T16:51:06+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "Germany and food security (ML)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "1da644407e8fd00e",
+  "stream": "wider",
+  "url": "https://news.az/news/germany-urges-russia-to-agree-to-black-sea-ceasefire",
+  "source": "news.az",
+  "title_de": "Germany urges Russia to agree to Black Sea ceasefire - News.az",
+  "snippet_de": "“It is not just a matter of the security of the neighboring states; it is also a question of food security for people in the Global South,” he said.",
+  "published": "2026-11-26T14:32:43+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "Germany and food security (ML)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "ea5b739f881d09b7",
+  "stream": "wider",
+  "url": "https://www.politico.eu/sponsored-content/europes-food-security-starts-with-resilient-farms/",
+  "source": "politico.eu",
+  "title_de": "Europe's food security starts with resilient farms - POLITICO",
+  "snippet_de": "Europe's food security starts with resilient farms ... The sponsor is Nestlé Deutschland AG, Baseler Straße 46, 60329 Frankfurt am Main, Germany.",
+  "published": "2026-11-26T14:15:58+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "Germany and food security (ML)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "dcfb4078585da3e5",
+  "stream": "wider",
+  "url": "https://aa.com.tr/en/russia-ukraine-war/germany-calls-on-russia-to-show-peace-talks-readiness-through-black-sea-ceasefire/4138794",
+  "source": "aa.com.tr",
+  "title_de": "Germany calls on Russia to show peace talks readiness through Black Sea ceasefire",
+  "snippet_de": "... food security | Anadolu. ... Germany calls on Russia to show peace talks readiness through Black Sea ceasefire.",
+  "published": "2026-11-26T13:58:56+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "Germany and food security (ML)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "cce478c9579b9317",
+  "stream": "wider",
+  "url": "https://www.anews.com.tr/world/2026/11/26/germany-calls-on-russia-to-show-peace-talks-readiness-through-black-sea-ceasefire",
+  "source": "anews.com.tr",
+  "title_de": "Germany calls on Russia to show peace talks readiness through Black Sea ceasefire",
+  "snippet_de": "\"It is not just a matter of the security of the neighboring states; it is also a question of food security for people in the Global South,\" Wadephul ...",
+  "published": "2026-11-26T13:47:55+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "Germany and food security (ML)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "f05dd16d2082bacd",
+  "stream": "wider",
+  "url": "https://news.uoguelph.ca/2026/11/climate-activist-brings-global-perspective-to-u-of-g-masters-program/",
+  "source": "news.uoguelph.ca",
+  "title_de": "Climate Activist Brings Global Perspective to U of G Master's Program - News - University of Guelph",
+  "snippet_de": "Nigerian climate justice leader Adenike Oladosu chose U of G to explore connections between climate change, economics and food security ... Germany ...",
+  "published": "2026-11-26T13:45:58+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "Germany and food security (ML)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "0112f67374bcc246",
+  "stream": "wider",
+  "url": "https://www.seoulcity.co.kr/news/articleView.html?idxno=552181",
+  "source": "seoulcity.co.kr",
+  "title_de": "KGCCI Successfully Hosts 2026 Korea-Germany Climate and Environment Conference",
+  "snippet_de": "Korea and Germany Explore Cooperation on Water Security Amid Climate Change More than 80 policymakers, experts, and business representatives from ...",
+  "published": "2026-11-27T01:48:48+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "Germany and climate change (ML)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "8e768fe47b415a6e",
+  "stream": "wider",
+  "url": "https://www.yahoo.com/news/world/articles/steinmeier-urges-germany-not-overlook-113326280.html",
+  "source": "yahoo.com",
+  "title_de": "Steinmeier urges Germany not to overlook Africa's potential - Yahoo",
+  "snippet_de": "On the final day of his trip, he was visiting the Crescent Island nature reserve on Lake Naivasha, which is threatened by climate change. The head ...",
+  "published": "2026-11-26T12:25:03+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "Germany and climate change (ML)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "82fe51e021307528",
+  "stream": "wider",
+  "url": "https://theclimatewatch.com/opec-chief-blames-eu-for-failure-of-cop31-climate-negotiations/",
+  "source": "theclimatewatch.com",
+  "title_de": "OPEC chief blames EU for failure of COP31 climate negotiations",
+  "snippet_de": "... climate change. They also blamed the EU and other countries for the ... Germany to give 52.5m euros to Bangladesh for climate change adaptation.",
+  "published": "2026-11-26T12:03:09+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "Germany and climate change (ML)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "d542841a1221a3e9",
+  "stream": "wider",
+  "url": "https://www.deutschland.de/en/news/german-business-confidence-rises-sharply",
+  "source": "deutschland.de",
+  "title_de": "German business confidence rises sharply - deutschland.de",
+  "snippet_de": "Germany's leading economic indicator has risen to its highest level since 2023. This is raising hopes of robust economic growth.",
+  "published": "2026-11-26T11:19:56+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "Germany and climate change (ML)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "44a63bcdda45ecaa",
+  "stream": "wider",
+  "url": "https://www.eco-business.com/opinion/how-did-the-cop31-climate-agreement-fall-apart-and-what-happens-now/",
+  "source": "eco-business.com",
+  "title_de": "How did the COP31 climate agreement fall apart — and what happens now? - Eco-Business",
+  "snippet_de": "For many observers, the litmus test for success at COP31 was whether countries could make any headway on the root cause of climate change — fossil ...",
+  "published": "2026-11-26T08:33:55+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "Germany and climate change (ML)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "abccd5bba699d34e",
+  "stream": "wider",
+  "url": "https://table.media/en/climate/feature/cop-of-truth-setbacks-in-the-fight-against-climate-disinformation",
+  "source": "table.media",
+  "title_de": "'COP of Truth': Setbacks in the fight against climate disinformation - Table.Briefings",
+  "snippet_de": "(UN Climate Change – Kubilay Ciftci) ... Germany's No.1 briefing publisher. Table.Briefings auf Instagram · Table ...",
+  "published": "2026-11-26T04:19:29+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "Germany and climate change (ML)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "3a83df4b61334550",
+  "stream": "wider",
+  "url": "https://vancouver.citynews.ca/2026/11/26/tech-leaders-urge-canada-to-build-data-centres-here-or-risk-renting-abroad/",
+  "source": "vancouver.citynews.ca",
+  "title_de": "Tech leaders urge Canada to build data centres here or risk renting abroad",
+  "snippet_de": "... Germany, Friday, Aug. 22, 2025. (AP Photo/Michael Probst) Copyright ... Opponents argue data centres power artificial intelligence systems ...",
+  "published": "2026-11-26T21:27:24+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "Germany and AI risk (ML)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "e20ef5f02ae778db",
+  "stream": "wider",
+  "url": "https://www.3tres3.com/en/company_news/brazil-and-germany-explore-opportunities-in-biogas-and-biomethane_23062/",
+  "source": "3tres3.com",
+  "title_de": "Brazil and Germany explore win-win opportunities in biogas and biomethane - 3tres3.com",
+  "snippet_de": "... biosecurity, etc, Pig disease guide, atlas of pathology, clinical cases… ... The “German Technologies for Brazil's Bioenergy Sector” event took place ...",
+  "published": "2026-11-26T11:42:11+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "Germany and biosecurity (ML)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "aea3b4f083c71bc3",
+  "stream": "wider",
+  "url": "https://www.zeit.de/news/2026-11/26/bayern-staerkt-krisenvorsorge-im-gesundheitssystem",
+  "source": "zeit.de",
+  "title_de": "Zivilschutz: Bayern stärkt Krisenvorsorge im Gesundheitssystem - DIE ZEIT",
+  "snippet_de": "Hier finden Sie Informationen zu dem Thema „Zivilschutz“. Lesen Sie jetzt „Bayern stärkt Krisenvorsorge im Gesundheitssystem“.",
+  "published": "2026-11-26T14:16:10+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "Preparedness (German)",
+   "Pandemic (German)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "4efbe610ed6d82c6",
+  "stream": "wider",
+  "url": "https://www.berliner-zeitung.de/article/hamsterkaeufe-supermaerkte-angst-weltkrieg-notvorraete-10636892",
+  "source": "berliner-zeitung.de",
+  "title_de": "Die Angst kehrt in die Supermärkte zurück: Was hinter den Hamsterkäufen weltweit steckt",
+  "snippet_de": "Auch deutsche Supermärkte haben auf das wachsende Interesse an Krisenvorsorge reagiert. Foto von Autor/Autorin: Alexander Schmalz. Alexander Schmalz.",
+  "published": "2026-11-26T09:51:56+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "Preparedness (German)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "314cac4201c9e5b4",
+  "stream": "wider",
+  "url": "https://eu.36kr.com/de/p/4087311436446085",
+  "source": "eu.36kr.com",
+  "title_de": "Sie bleiben lieber Single, als eine Beziehung mit jemandem einzugehen, der im KI-Bereich tätig ist.",
+  "snippet_de": "... KI-Sicherheit ernst zu nehmen“. 14. November, Anti-KI-Demonstration in San Francisco ｜ Mission Local. Ein Anwalt erzählte, dass er einmal eine ...",
+  "published": "2026-11-27T02:58:17+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "AI safety (German)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "89495f5afcb3473a",
+  "stream": "wider",
+  "url": "https://eu.36kr.com/de/p/4086372315273095",
+  "source": "eu.36kr.com",
+  "title_de": "Amodei enthüllt seine ursprüngliche Absicht: Ich hatte niemals die Absicht, der KI die Macht ...",
+  "snippet_de": "Er bekräftigte seine seit jeher vertretenen Standpunkte, zählte die Bemühungen von Anthropic für die KI-Sicherheit auf und kritisierte am Ende ...",
+  "published": "2026-11-26T10:29:04+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "AI safety (German)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "30c57e219b24726f",
+  "stream": "wider",
+  "url": "https://www.presseportal.de/pm/65031/6398456",
+  "source": "presseportal.de",
+  "title_de": "TÜV-Organisationen bringen KI-Zertifizierung in den Regelbetrieb - Presseportal",
+  "snippet_de": "Wie das TÜV AI.Lab KI-Sicherheit prüfbar macht. Die Studienergebnisse zeigen, wie wichtig den Menschen eine unabhängige Bewertung von KI-Systemen ...",
+  "published": "2026-11-26T10:24:27+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "AI safety (German)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "0ff0a1f833e5c2f9",
+  "stream": "wider",
+  "url": "https://www.computerweekly.com/de/feature/Windows-Server-2028-Sicherheit-und-Resilienz-im-Fokus",
+  "source": "computerweekly.com",
+  "title_de": "Windows Server 2028: Sicherheit und Resilienz im Fokus - Computer Weekly",
+  "snippet_de": "Und natürlich spielt auch KI-Sicherheit eine Rolle. Teilen Sie diesen Inhalt mit Ihrem Netzwerk: von. Joab Jackson · Malte Jeschke, Senior Online ...",
+  "published": "2026-11-26T05:36:39+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "AI safety (German)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "e0a49b3ccbc81c63",
+  "stream": "wider",
+  "url": "https://eu.36kr.com/de/p/4086045517556098",
+  "source": "eu.36kr.com",
+  "title_de": "Superintelligenz rückt näher: Öffentlicher Schlagabtausch der 3 Silicon Valley Giganten - 36氪",
+  "snippet_de": "Microsoft hat zuvor eine 9-wöchige öffentliche Konsultation zu diesem Kodex durchgeführt, um die Prinzipien der KI-Sicherheit in konkrete ...",
+  "published": "2026-11-26T04:39:46+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "AI safety (German)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "fa0572512f6fc531",
+  "stream": "wider",
+  "url": "https://www.bundesbank.de/resource/blob/964552/9433ed2b4310b37baf69d729755e6a73/472B63F073F071307366337C94F8C870/2026-11-26-klimawandel-download.pdf",
+  "source": "bundesbank.de",
+  "title_de": "Klimawandel-Indikatoren: November 2026 - Deutsche Bundesbank",
+  "snippet_de": "Die Europäische Zentralbank (EZB) hat aktualisierte statistische Klimaindikatoren veröffentlicht, um die. Entwicklung der mit dem Klimawandel ...",
+  "published": "2026-11-26T22:19:14+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "climate change (Germany)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "7e1cfbbdc9a8976d",
+  "stream": "wider",
+  "url": "https://www.derstandard.at/story/3000000351283/wasserhaushalt-reagiert-sensibler-auf-den-klimawandel-als-gedacht?ref=niewidget&rank=2",
+  "source": "derstandard.at",
+  "title_de": "Wasserhaushalt reagiert sensibler auf den Klimawandel als gedacht - Klima - DerStandard",
+  "snippet_de": "Der Klimawandel prägt den Wasserhaushalt, und er wird dazu beitragen, dass wir noch öfter extremer Trockenheit ausgesetzt sein werden. Neue ...",
+  "published": "2026-11-26T20:02:39+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "climate change (Germany)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "de88b5baa1135fe4",
+  "stream": "wider",
+  "url": "https://www.augsburger-allgemeine.de/115775608",
+  "source": "augsburger-allgemeine.de",
+  "title_de": "Video: Everest unter Druck durch Klimawandel und Überfüllung - Augsburger Allgemeine",
+  "snippet_de": "Nepal sagt, es müsse den Mount Everest schützen, da steigende Kletterzahlen und der Klimawandel Druck auf den höchsten Berg der Welt ausüben.",
+  "published": "2026-11-26T19:37:46+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "climate change (Germany)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "3ff99a6df19ebf41",
+  "stream": "wider",
+  "url": "https://www.kleinezeitung.at/artikel/41495938/weltweite-rekordhitzejahre-reduzierten-verfuegbares-wasser",
+  "source": "kleinezeitung.at",
+  "title_de": "Weltweite Rekordhitzejahre reduzierten verfügbares Wasser - Kleine Zeitung",
+  "snippet_de": "Der Wasserhaushalt reagiere sensibler auf den Klimawandel als gedacht, so der Hydrologe Günter Blöschl. Der am Institut für Wasserbau und ...",
+  "published": "2026-11-26T19:10:51+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "climate change (Germany)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "f993aab516ede674",
+  "stream": "wider",
+  "url": "https://www.kleinezeitung.at/artikel/41494222/im-wandel-warum-die-eiskrippe-ganz-anders-aussieht-als-1996",
+  "source": "kleinezeitung.at",
+  "title_de": "Im Wandel: Warum die Eiskrippe ganz anders aussieht als 1996 - Kleine Zeitung",
+  "snippet_de": "Warum sie heute ganz anders gebaut wird als in den 1990er-Jahren, wie man dem Klimawandel trotzt und was Arnold Schwarzenegger damit zu tun hat.",
+  "published": "2026-11-26T18:56:46+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "climate change (Germany)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "f0205412ea30d227",
+  "stream": "wider",
+  "url": "https://www.lkz.de/lokales/landkreis-ludwigsburg_artikel,-werden-buerger-in-ingersheim-beim-wasserzins-geschont-_arid,891695.html",
+  "source": "lkz.de",
+  "title_de": "Werden Bürger in Ingersheim beim Wasserzins geschont? - Ludwigsburger Kreiszeitung",
+  "snippet_de": "Gemeinde im Klimawandel. Werden Bürger in Ingersheim beim Wasserzins geschont? von Angelika Baumeister-Luetzelschwab |. 26.11.2026, 12:45 Uhr.",
+  "published": "2026-11-26T17:50:53+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "climate change (Germany)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "deea1721c2a9e58e",
+  "stream": "wider",
+  "url": "https://www.focus.de/earth/umwelt/ich-war-ziemlich-ueberrascht-klimawandel-fuehrt-zu-mehr-blitzschlaegen-forscher-verbluefft_438353c3-d7eb-45bd-872d-41d98af82db9.html",
+  "source": "focus.de",
+  "title_de": "„Ich war ziemlich überrascht“: Klimawandel führt zu mehr Blitzschlägen – Forscher verblüfft",
+  "snippet_de": "„Bisher besteht eine große Unsicherheit darüber, wie Blitze auf den Klimawandel reagieren werden“, erklärt Erstautor Andreas Krause von der ...",
+  "published": "2026-11-26T17:50:31+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "climate change (Germany)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "da2f71ac611fcd24",
+  "stream": "wider",
+  "url": "https://www.krone.at/4391001",
+  "source": "krone.at",
+  "title_de": "Greenpeace-Analyse - Ländle führt Starkregen-Ranking in Österreich an | krone.at",
+  "snippet_de": "Der Klimawandel verändert die Niederschlagsmuster in Vorarlberg drastisch, wie eine aktuelle Auswertung von Greenpeace aufzeigt. Im bundesweiten .",
+  "published": "2026-11-26T17:16:47+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "climate change (Germany)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "b837ca5a8b22633e",
+  "stream": "wider",
+  "url": "https://www.ndr.de/nachrichten/mecklenburg-vorpommern/rostock/forstamt-bad-doberan-ersetzt-fichten-durch-laubbaeume,mvregiorostock-5452.html",
+  "source": "ndr.de",
+  "title_de": "Forstamt Bad Doberan ersetzt Fichten durch Laubbäume | ndr.de",
+  "snippet_de": "Blätter der Papierbirke in der Nahansicht. Buchen gelten als widerstandsfähiger im Klimawandel als Fichten. (Themenbild). Das Forstamt Bad Doberan ...",
+  "published": "2026-11-26T17:00:43+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "climate change (Germany)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "ec756871316ac2fc",
+  "stream": "wider",
+  "url": "https://www.idowa.de/seite-3/wetterphaenomen-el-nino-wie-die-philippinen-mit-dem-klimawandel-ringen-art-428090",
+  "source": "idowa.de",
+  "title_de": "Wetterphänomen El Niño: Wie die Philippinen mit dem Klimawandel ringen - Idowa",
+  "snippet_de": "Wetterphänomen El Niño: Wie die Philippinen mit dem Klimawandel ringen. Auf den Philippinen bringt das Wetterphänomen El Niño Hitze und Dürre. Laut ...",
+  "published": "2026-11-26T16:52:22+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "climate change (Germany)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "845ded9cd1bd5834",
+  "stream": "wider",
+  "url": "https://www.onetz.de/oberpfalz/illschwang/wasserversorgung-klimawandel-neue-pumpe-wegen-weniger-grundwasser-id5575435.html",
+  "source": "onetz.de",
+  "title_de": "Wasserversorgung und Klimawandel: Neue Pumpe wegen weniger Grundwasser - Onetz",
+  "snippet_de": "Wasserversorgung und Klimawandel: Neue Pumpe wegen weniger Grundwasser. Im Birgland sinken die Pegelstände. Das erfordert Anpassungen bei der ...",
+  "published": "2026-11-26T15:43:27+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "climate change (Germany)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "bc46494b3a47f2f3",
+  "stream": "wider",
+  "url": "https://www.srf.ch/wissen/klimawandel/naturgewalt-mit-folgen-el-nino-vorbereitungen-auf-das-unvermeidbare",
+  "source": "srf.ch",
+  "title_de": "Naturgewalt mit Folgen – El Niño: Vorbereitungen auf das Unvermeidbare - SRF",
+  "snippet_de": "Klimawandel. Naturgewalt mit Folgen - El Niño: Vorbereitungen auf das ... Klimawandel. Korallen zeigen: El Niños werden stärker. 04.10.2026Mit ...",
+  "published": "2026-11-26T15:17:09+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "climate change (Germany)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "3f642c6c5dcfd924",
+  "stream": "wider",
+  "url": "https://www.sueddeutsche.de/wissen/grand-theft-auto-klimawandel-meeresspiegel-videospiele-interview-li.3583523",
+  "source": "sueddeutsche.de",
+  "title_de": "Permafrostforscher: „Grand Theft Auto“ könnte Klimafolgen greifbar machen - Wissen - SZ.de",
+  "snippet_de": "Überschwemmte Kläranlagen, Häuser mit Wasserschaden: Forscher simulieren den Klimawandel in „GTA 5“ – und sehen großes Potenzial.",
+  "published": "2026-11-26T15:02:05+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "climate change (Germany)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "9793d12440c01c2f",
+  "stream": "wider",
+  "url": "https://www.nordkurier.de/regional/uckermark/boitzenburger-land/genossenschaftsbank-pflanzt-fuer-jedes-neue-mitglied-einen-baum-5033865",
+  "source": "nordkurier.de",
+  "title_de": "Genossenschaftsbank pflanzt für jedes neue Mitglied einen Baum - Nordkurier.de",
+  "snippet_de": "Bäume für die Uckermark“ heißt eine gemeinsame Aktion der tmu Tourismus Marketing Uckermark GmbH und von Stadtförstern der Region.",
+  "published": "2026-11-26T15:01:32+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "climate change (Germany)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "3ed4212075fa9a7d",
+  "stream": "wider",
+  "url": "https://www.stol.it/artikel/wirtschaft/wie-sieht-die-zukunft-des-suedtiroler-apfels-aus",
+  "source": "stol.it",
+  "title_de": "Wie sieht die Zukunft des Südtiroler Apfels aus? - STOL",
+  "snippet_de": "... Der Klimawandel macht ...",
+  "published": "2026-11-26T14:41:51+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "climate change (Germany)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "d5b06a90ed9ce4e4",
+  "stream": "wider",
+  "url": "https://www.diepresse.com/41494078/das-kriterium-des-ersten-schnees",
+  "source": "diepresse.com",
+  "title_de": "Das Kriterium des ersten Schnees - DiePresse.com",
+  "snippet_de": "Welch Überraschung: Der Winter ist da! Die Klimawandel-Leugner sehen sich bestätigt. Und die, die sich noch nicht winterfest gemacht haben, ...",
+  "published": "2026-11-26T13:57:21+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "climate change (Germany)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "88a0484304cefe38",
+  "stream": "wider",
+  "url": "https://www.nau.ch/ort/thalwil/thalwil-zh-gemeinde-fordert-klimamassnahmen-webinar-im-dezember-67207576",
+  "source": "nau.ch",
+  "title_de": "Thalwil ZH: Gemeinde fördert Klimamassnahmen – Webinar im Dezember | Nau.ch",
+  "snippet_de": "... Klimawandel unerlässlich. Das kommunale Förderprogramm Klima leistet dazu einen wichtigen Beitrag und unterstützt Eigentümerinnen und Eigentümer ...",
+  "published": "2026-11-26T13:35:30+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "climate change (Germany)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "df93ec9857beba02",
+  "stream": "wider",
+  "url": "https://www.saarbruecker-zeitung.de/saarland/merzig-wadern/perl/perl-wie-der-klimawandel-die-arbeit-des-foersters-veraendert_aid-158983131",
+  "source": "saarbruecker-zeitung.de",
+  "title_de": "Perl: Wie der Klimawandel die Arbeit des Försters verändert - Saarbrücker Zeitung",
+  "snippet_de": "Perl: Wie der Klimawandel die Arbeit des Försters verändert. Mit unseren Förstern durchs Jahr Perls Förster Schneider: „Alles, was wir gelernt ...",
+  "published": "2026-11-26T13:18:11+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "climate change (Germany)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "02af59b970852a6f",
+  "stream": "wider",
+  "url": "https://www.arf.at/2026/11/26/ein-winterkleid-das-nicht-mehr-zur-landschaft-passt-wenn-der-klimawandel-die-tarnung-ad-absurdum-fuehrt/",
+  "source": "arf.at",
+  "title_de": "Ein Winterkleid, das nicht mehr zur Landschaft passt. Wenn der Klimawandel die Tarnung ... - ARF",
+  "snippet_de": "Der Klimawandel verändert nun die Bedingungen, an die diese Tarnung angepasst ist. Bei den Säugetieren und Vögeln wird der Federwechsel vermutlich ...",
+  "published": "2026-11-26T13:15:04+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "climate change (Germany)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "492a7e476d00aa4e",
+  "stream": "wider",
+  "url": "https://www.salz-tv.at/2026/11/26/ein-winterkleid-das-nicht-mehr-zur-landschaft-passt-wenn-der-klimawandel-die-tarnung-ad-absurdum-fuehrt/",
+  "source": "salz-tv.at",
+  "title_de": "Ein Winterkleid, das nicht mehr zur Landschaft passt. Wenn der Klimawandel die Tarnung ...",
+  "snippet_de": "Wenn der Klimawandel die Tarnung ad absurdum führt. Von ... Der Klimawandel verändert nun die Bedingungen, an die diese Tarnung angepasst ist.",
+  "published": "2026-11-26T13:13:16+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "climate change (Germany)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "c64ea68e5ad6bd49",
+  "stream": "wider",
+  "url": "https://www.bauernverband.de/pressemitteilungen/berliner-forum-2026-48724",
+  "source": "bauernverband.de",
+  "title_de": "Berliner Forum 2026 | dbv - Deutscher Bauernverband e.V.",
+  "snippet_de": "Ernährungssicherheit im Grundgesetz: Beim Berliner Forum 2026 wurden Chancen, rechtliche Fragen und Auswirkungen für Landwirtschaft diskutiert.",
+  "published": "2026-11-26T18:50:46+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "Food security (German)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "0783c9d709aba316",
+  "stream": "wider",
+  "url": "https://www.vietnam.vn/de/ket-noi-kinh-nghiem-phat-trien-cua-viet-nam-voi-cac-chuong-trinh-cua-lien-hop-quoc-tai-timor-leste",
+  "source": "vietnam.vn",
+  "title_de": "Verknüpfung der Entwicklungserfahrung Vietnams mit den Programmen der Vereinten ...",
+  "snippet_de": "... Ernährungssicherheit für die Bevölkerung. Kết nối kinh nghiệm phát triển của Việt Nam với các chương trình của Liên hợp. Der vietnamesische ...",
+  "published": "2026-11-26T16:55:12+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "Food security (German)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "04dca3961cb5dfbf",
+  "stream": "wider",
+  "url": "https://www.ages.at/forschung/projekt-highlights/klimagap-at",
+  "source": "ages.at",
+  "title_de": "KLIMAGAP-AT: Identifikation systemischer Wissenslücken zur Ernährungssicherung unter ...",
+  "snippet_de": "... Ernährungssicherheit (BAES) ist, um Informationen über die ... © 2026 Österreichische Agentur für Gesundheit und Ernährungssicherheit GmbH.",
+  "published": "2026-11-26T15:45:25+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "Food security (German)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "8b4210b636c53212",
+  "stream": "wider",
+  "url": "https://www.zeit.de/politik/ausland/2026-11/russland-satellit-atomsprengkopf-weltraumvertrag-maria-sacharowa",
+  "source": "zeit.de",
+  "title_de": "Rüstung: Russland weist Berichte über Atomwaffe im Weltraum zurück - DIE ZEIT",
+  "snippet_de": "Die Regierung in Moskau dementiert angebliche Pläne, eine Atomwaffe im Weltraum stationieren zu wollen. Eine Sprecherin bezeichnet die Berichte ...",
+  "published": "2026-11-27T01:48:03+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "Nuclear weapon (German)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "228f69d146d89341",
+  "stream": "wider",
+  "url": "https://www.onetz.de/deutschland-welt/russland-dementiert-berichte-ueber-atomwaffe-weltraum-id5575737.html",
+  "source": "onetz.de",
+  "title_de": "Russland dementiert Berichte über Atomwaffe im Weltraum - Onetz",
+  "snippet_de": "Russland dementiert Berichte über Atomwaffe im Weltraum. Ein ... Atomwaffe zurück. (Archivbild). Bild: --/Russian Foreign Ministry Press ...",
+  "published": "2026-11-26T23:32:58+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "Nuclear weapon (German)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "dae3a6601f59758d",
+  "stream": "wider",
+  "url": "https://www.regenbogen.de/nachrichten/dpa-politik/russland-dementiert-berichte-ueber-atomwaffe-im-weltraum",
+  "source": "regenbogen.de",
+  "title_de": "Russland dementiert Berichte über Atomwaffe im Weltraum - Radio Regenbogen",
+  "snippet_de": "Russland dementiert Berichte über Atomwaffe im Weltraum. Ein russischer Satellit mit Atomsprengkopf? Moskau weist entsprechende Berichte als « ...",
+  "published": "2026-11-26T23:13:44+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "Nuclear weapon (German)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "27358cdad4e53936",
+  "stream": "wider",
+  "url": "https://www.radioessen.de/dpa/russland-dementiert-berichte-ueber-atomwaffe-im-weltraum-2817869",
+  "source": "radioessen.de",
+  "title_de": "Russland dementiert Berichte über Atomwaffe im Weltraum - Radio Essen",
+  "snippet_de": "Russland dementiert Berichte über Atomwaffe im Weltraum. Ein russischer Satellit mit Atomsprengkopf? Moskau weist entsprechende Berichte als ...",
+  "published": "2026-11-26T23:08:51+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "Nuclear weapon (German)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "e50462c8c766c916",
+  "stream": "wider",
+  "url": "https://www.sueddeutsche.de/politik/atomwaffen-russland-dementiert-berichte-ueber-atomwaffe-im-weltraum-dpa.urn-newsml-dpa-com-20090101-261126-930-57688",
+  "source": "sueddeutsche.de",
+  "title_de": "Russland dementiert Berichte über Atomwaffe im Weltraum - Politik - SZ.de",
+  "snippet_de": "AtomwaffenRussland dementiert Berichte über Atomwaffe im Weltraum ... Ein russischer Satellit mit Atomsprengkopf? Moskau weist entsprechende Berichte ...",
+  "published": "2026-11-26T23:05:36+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "Nuclear weapon (German)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "7b688a36ae483c94",
+  "stream": "wider",
+  "url": "https://www.tageblatt.de/Nachrichten/Russland-dementiert-Berichte-ueber-Atomwaffe-im-Weltraum-792280.html",
+  "source": "tageblatt.de",
+  "title_de": "Russland dementiert Berichte über Atomwaffe im Weltraum - Tageblatt",
+  "snippet_de": "Russland dementiert Berichte über Atomwaffe im Weltraum.",
+  "published": "2026-11-26T23:01:18+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "Nuclear weapon (German)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "a6b1eea86e274f08",
+  "stream": "wider",
+  "url": "https://www.kurier.de/inhalt.atomwaffen-russland-dementiert-berichte-ueber-atomwaffe-im-weltraum.4b39ac0a-38f7-4fe8-b700-288107c489f1.html",
+  "source": "kurier.de",
+  "title_de": "Russland dementiert Berichte über Atomwaffe im Weltraum - Politik - Nordbayerischer Kurier",
+  "snippet_de": "Atomwaffen Russland dementiert Berichte über Atomwaffe im Weltraum. dpa 26.11.2026 - 22:58 Uhr. Ein russischer Satellit ...",
+  "published": "2026-11-26T22:50:38+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "Nuclear weapon (German)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "951a56f220a7004c",
+  "stream": "wider",
+  "url": "https://www.nordsee-zeitung.de/deutschland-und-welt/russland-dementiert-berichte-ueber-atomwaffe-im-weltraum-433762.html",
+  "source": "nordsee-zeitung.de",
+  "title_de": "Russland dementiert Berichte über Atomwaffe im Weltraum - Nordsee-Zeitung",
+  "snippet_de": "Russland dementiert Berichte über Atomwaffe im Weltraum. Ein russischer Satellit mit Atomsprengkopf? Moskau weist entsprechende Berichte als „ ...",
+  "published": "2026-11-26T22:31:36+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "Nuclear weapon (German)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "38a3bac79b73b01a",
+  "stream": "wider",
+  "url": "https://www.euroherz.de/russland-dementiert-berichte-ueber-atomwaffe-im-weltraum-2581397/",
+  "source": "euroherz.de",
+  "title_de": "Russland dementiert Berichte über Atomwaffe im Weltraum - Radio Euroherz",
+  "snippet_de": "Russland dementiert Berichte über Atomwaffe im Weltraum. 26. November 2026 · 22:58 Uhr. headphones chrome_reader_mode. Ein russischer Satellit mit ...",
+  "published": "2026-11-26T22:21:22+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "Nuclear weapon (German)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "85f42bcc511b005f",
+  "stream": "wider",
+  "url": "https://www.radioguetersloh.de/nachrichten/nrw-und-die-welt/moskau-russland-dementiert-berichte-ueber-atomwaffe-im-weltraum.html",
+  "source": "radioguetersloh.de",
+  "title_de": "Moskau | Russland dementiert Berichte über Atomwaffe im Weltraum - Radio Gütersloh",
+  "snippet_de": "Moskau | Russland dementiert Berichte über Atomwaffe im Weltraum ... Atomwaffe zurück. (Archivbild). Atomwaffen. Moskau (dpa) - Russland hat ...",
+  "published": "2026-11-26T22:19:19+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "Nuclear weapon (German)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "58f65847abe83a68",
+  "stream": "wider",
+  "url": "https://www.watson.ch/international/deutschland/250080589-russland-dementiert-berichte-ueber-atomwaffe-im-weltraum",
+  "source": "watson.ch",
+  "title_de": "Russland dementiert Berichte über Atomwaffe im Weltraum - Watson",
+  "snippet_de": "Russland dementiert Berichte über Atomwaffe im Weltraum. Russland dementiert Berichte über Atomwaffe im Weltraum. 0. 26.11.2026, 23:0426.11.2026 ...",
+  "published": "2026-11-26T22:18:28+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "Nuclear weapon (German)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "f1acb2305e83c43b",
+  "stream": "wider",
+  "url": "https://www.wz.de/politik/ausland/russland-dementiert-berichte-ueber-atomwaffe-im-weltraum_aid-159075099",
+  "source": "wz.de",
+  "title_de": "Russland dementiert Berichte über Atomwaffe im Weltraum - Westdeutsche Zeitung",
+  "snippet_de": "Atomwaffen Russland dementiert Berichte über Atomwaffe im Weltraum. Moskau · Ein russischer Satellit mit Atomsprengkopf? Moskau weist entsprechende ...",
+  "published": "2026-11-26T22:18:15+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "Nuclear weapon (German)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "ceb7b6dcc3f1aab6",
+  "stream": "wider",
+  "url": "https://www.nord24.de/politik/russland-dementiert-berichte-ueber-atomwaffe-im-weltraum-433762.html",
+  "source": "nord24.de",
+  "title_de": "Russland dementiert Berichte über Atomwaffe im Weltraum - Nord24",
+  "snippet_de": "Russland dementiert Berichte über Atomwaffe im Weltraum ... Ein russischer Satellit mit Atomsprengkopf? Moskau weist entsprechende Berichte als „ ...",
+  "published": "2026-11-26T22:17:26+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "Nuclear weapon (German)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "4a47b8b715913ee7",
+  "stream": "wider",
+  "url": "https://www.haller-kreisblatt.de/ueberregional/politik/24472070_Russland-dementiert-Berichte-ueber-Atomwaffe-im-Weltraum.html",
+  "source": "haller-kreisblatt.de",
+  "title_de": "Russland dementiert Berichte über Atomwaffe im Weltraum | Politik - Haller Kreisblatt",
+  "snippet_de": "Atomwaffen. Russland dementiert Berichte über Atomwaffe im Weltraum. Ein russischer Satellit mit Atomsprengkopf ...",
+  "published": "2026-11-26T22:10:23+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "Nuclear weapon (German)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "2db6564260c03ada",
+  "stream": "wider",
+  "url": "https://www.idowa.de/politik/russland-dementiert-berichte-ueber-atomwaffe-im-weltraum-art-428120",
+  "source": "idowa.de",
+  "title_de": "Russland dementiert Berichte über Atomwaffe im Weltraum - Idowa",
+  "snippet_de": "Russland dementiert Berichte über Atomwaffe im Weltraum ... Russland hat deutsche Medienberichte über russische Startvorbereitungen für einen Satelliten ...",
+  "published": "2026-11-26T22:09:45+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "Nuclear weapon (German)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "921b87f6d17fb6d9",
+  "stream": "wider",
+  "url": "https://www.infranken.de/welt/russland-dementiert-berichte-ueber-atomwaffe-im-weltraum-art-6414304",
+  "source": "infranken.de",
+  "title_de": "Russland dementiert Berichte über Atomwaffe im Weltraum - inFranken.de",
+  "snippet_de": "Russland dementiert Berichte über Atomwaffe im Weltraum. vor 7 Minuten. 1 Min. dpa.",
+  "published": "2026-11-26T22:09:05+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "Nuclear weapon (German)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "877c9fafc7490c70",
+  "stream": "wider",
+  "url": "https://www.rheinpfalz.de/politik_artikel,-russland-dementiert-berichte-%C3%BCber-atomwaffe-im-weltraum-_arid,5952556.html",
+  "source": "rheinpfalz.de",
+  "title_de": "Russland dementiert Berichte über Atomwaffe im Weltraum - Politik - DIE RHEINPFALZ",
+  "snippet_de": "... Atomwaffe zurück. (Archivbild) Foto: Russian Foreign Ministry Press Service/dpa. 26. November 2026 - 23:00 Uhr. Ein russischer Satellit mit ...",
+  "published": "2026-11-26T22:07:57+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "Nuclear weapon (German)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "44017b1ee4d5132d",
+  "stream": "wider",
+  "url": "https://www.nn.de/politik/russland-dementiert-berichte-uber-atomwaffe-im-weltraum-1.15370457",
+  "source": "nn.de",
+  "title_de": "Russland dementiert Berichte über Atomwaffe im Weltraum - NN.de",
+  "snippet_de": "Russland dementiert Berichte über Atomwaffe im Weltraum. Moskau - Ein russischer Satellit mit Atomsprengkopf? Moskau weist entsprechende Berichte als ...",
+  "published": "2026-11-26T22:07:52+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "Nuclear weapon (German)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "8328d867903c8ae6",
+  "stream": "wider",
+  "url": "https://www.handelsblatt.com/politik/international/atomwaffen-russland-dementiert-berichte-ueber-atomwaffe-im-weltraum/100273135.html",
+  "source": "handelsblatt.com",
+  "title_de": "Russland dementiert Berichte über Atomwaffe im Weltraum - Handelsblatt",
+  "snippet_de": "Atomwaffen: Russland dementiert Berichte über Atomwaffe im Weltraum. Ein russischer Satellit mit Atomsprengkopf? Moskau weist entsprechende Berichte ...",
+  "published": "2026-11-26T22:07:48+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "Nuclear weapon (German)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "6847b257e63b5b47",
+  "stream": "wider",
+  "url": "https://de.nachrichten.yahoo.com/russland-dementiert-berichte-%C3%BC-atomwaffe-215848972.html",
+  "source": "de.nachrichten.yahoo.com",
+  "title_de": "Russland dementiert Berichte über Atomwaffe im Weltraum - Yahoo Nachrichten",
+  "snippet_de": "Russland dementiert Berichte über Atomwaffe im Weltraum. dpa. Aktualisiert Do., 26. November 2026 um 9:58 PM UTC. Lesedauer: 1 Min. Fügen Sie Yahoo ...",
+  "published": "2026-11-26T22:06:58+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "Nuclear weapon (German)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "3e16ebdfd53a9fe1",
+  "stream": "wider",
+  "url": "https://www.gelderlander.nl/gezond/wanneer-vertel-je-je-kind-dat-sinterklaas-niet-bestaat-wacht-niet-tot-bepaalde-leeftijd~a1f9cdd3/",
+  "source": "gelderlander.nl",
+  "title_de": "Wanneer vertel je je kind dat Sinterklaas niet bestaat? 'Wacht niet tot bepaalde leeftijd'",
+  "snippet_de": "... Infectie met spoelworm kan hét antwoord zijn op nieuwe pandemie: veel minder schade aan longen. 4.",
+  "published": "2026-11-26T22:59:35+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "Pandemic (German)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "c6f5df8245b62969",
+  "stream": "wider",
+  "url": "https://www.parlament.gv.at/aktuelles/pk/jahr_2026/pk1156",
+  "source": "parlament.gv.at",
+  "title_de": "Binnenmarkt: Neue Notfallverfahren für unverzichtbare Güter in einer Krise (PK1156/26.11.2026)",
+  "snippet_de": "Wien (PK) – Frühere Krisen wie die COVID-19-Pandemie haben gezeigt, dass der EU-Binnenmarkt und Lieferketten beeinträchtigt sein können. Mehrere ...",
+  "published": "2026-11-26T19:26:03+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "Pandemic (German)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "3d7d9b88e2b10ca3",
+  "stream": "wider",
+  "url": "https://brf.be/international/2128998/",
+  "source": "brf.be",
+  "title_de": "Nettozuwanderung nach Großbritannien auf niedrigstem Stand seit 1997 - BRF Nachrichten",
+  "snippet_de": "Es ist der niedrigste Wert seit 1997 (abgesehen von der Corona-Pandemie, als der internationale Reiseverkehr stark eingeschränkt war). Bei ...",
+  "published": "2026-11-26T18:56:16+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "Pandemic (German)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "f942662f77e4e99e",
+  "stream": "wider",
+  "url": "https://www.stern.de/gesellschaft/regional/rheinland-pfalz-saarland/landtag--kein-corona-untersuchungsausschuss-im-landtag-38611238.html",
+  "source": "stern.de",
+  "title_de": "Landtag: Kein Corona-Untersuchungsausschuss im Landtag | STERN.de",
+  "snippet_de": "Die Debatte im Landtag über die Corona-Pandemie verläuft kontrovers. Die Abstimmung im Parlament in Mainz ist eindeutig.",
+  "published": "2026-11-26T18:53:05+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "Pandemic (German)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "150c76ca98df6c09",
+  "stream": "wider",
+  "url": "https://www.frankenpost.de/inhalt.zivilschutz-bayern-staerkt-krisenvorsorge-im-gesundheitssystem.c9bbe1dc-3f9b-457a-bac1-b16b1375e771.html",
+  "source": "frankenpost.de",
+  "title_de": "Zivilschutz: Bayern stärkt Krisenvorsorge im Gesundheitssystem - Frankenpost",
+  "snippet_de": "\"Die Corona-Pandemie war nur ein Beispiel für mögliche Krisen. Die vergangenen Monate haben gezeigt, dass auch Klimaextreme sowie Cyberangriffe ...",
+  "published": "2026-11-26T18:48:21+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "Pandemic (German)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "05f6adbe28ab6873",
+  "stream": "wider",
+  "url": "https://www.derstandard.at/story/3000000350751/wie-die-fpoe-die-corona-wunde-offen-haelt-und-die-pandemie-politisch-hochkocht",
+  "source": "derstandard.at",
+  "title_de": "Wie die FPÖ die Corona-Wunde offen hält und die Pandemie politisch hochkocht",
+  "snippet_de": "Corona ist vorbei. Zumindest im Alltag der meisten Menschen. Für die FPÖ hingegen ist die Pandemie alles andere als Geschichte. Wer in diesen Wochen ...",
+  "published": "2026-11-26T18:31:48+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "Pandemic (German)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "16cd7624eb18f4b0",
+  "stream": "wider",
+  "url": "https://www.economica.net/marea-britanie-migratia-neta-a-coborat-la-cel-mai-scazut-nivel-de-dupa-1997-cu-exceptia-perioadei-de-pandemie_999438.html",
+  "source": "economica.net",
+  "title_de": "Marea Britanie - Migraţia netă a coborât la cel mai scăzut nivel de după 1997, cu excepţia ...",
+  "snippet_de": "... pandemie. Marea Britanie – Migraţia netă a coborât la cel mai scăzut nivel de după 1997, cu excepţia perioadei de pandemie. Marea Britanie a ...",
+  "published": "2026-11-26T18:31:30+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "Pandemic (German)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "e7704b71795c843c",
+  "stream": "wider",
+  "url": "https://www.insalutenews.it/in-salute/pandemie-solo-2-piani-su-18-prevedono-la-partecipazione-dei-cittadini-studio-delluniversita-di-pisa/",
+  "source": "insalutenews.it",
+  "title_de": "Pandemie, solo 2 piani su 18 prevedono la partecipazione dei cittadini. Studio dell'Università di Pisa",
+  "snippet_de": "Pandemie, solo 2 piani su 18 prevedono la partecipazione dei cittadini. Studio dell'Università di Pisa. di insalutenews.it · Pubblicato 26 Novembre ...",
+  "published": "2026-11-26T18:13:19+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "Pandemic (German)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "513fa93c62e8dd06",
+  "stream": "wider",
+  "url": "https://www.tageblatt.lu/Meinung/Selektiver-Wahrnehmungsverlust-ermoeglicht-der-DP-eine-180-Grad-Wende-115002.html",
+  "source": "tageblatt.lu",
+  "title_de": "Selektiver Wahrnehmungsverlust ermöglicht der DP eine 180-Grad-Wende - Tageblatt.lu",
+  "snippet_de": "Steht die DP noch hinter den Entscheidungen ihrer eigenen Regierungsmitglieder während der Corona-Pandemie? Nach dem zumindest fragwürdigen ...",
+  "published": "2026-11-26T18:06:28+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "Pandemic (German)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "4a5bda2b23a2f5f8",
+  "stream": "wider",
+  "url": "https://www.fitbook.de/gesundheit/corona-pandemie-folgen",
+  "source": "fitbook.de",
+  "title_de": "Folgen der Corona-Pandemie: Das RKI zieht Bilanz - FITBOOK",
+  "snippet_de": "Die Corona-Pandemie ist seit Jahren offiziell beendet, doch die Folgen sind bis heute spürbar. Das Robert Koch-Institut zieht Bilanz.",
+  "published": "2026-11-26T18:04:24+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "Pandemic (German)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "ae185ec4f7d04e04",
+  "stream": "wider",
+  "url": "https://mt-portal.de/aktuell/computergestuetzter-mrna-impfstoff-schuetzt-tiere-vor-vogelgrippeviren/",
+  "source": "mt-portal.de",
+  "title_de": "Computergestützter mRNA-Impfstoff schützt Tiere vor Vogelgrippeviren - MT-Portal",
+  "snippet_de": "Vogelgrippeviren gelten als eines der größten Pandemie-Risiken weltweit. Entwickeln sie die Fähigkeit, sich nach einer Infektion des Menschen über ...",
+  "published": "2026-11-26T18:02:53+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "Pandemic (German)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "f55a5e7f9ac32570",
+  "stream": "wider",
+  "url": "https://www.berliner-zeitung.de/article/corona-bilanz-des-rki-linke-wirft-regierung-vor-kinder-mit-den-folgen-alleinzulassen-10637470",
+  "source": "berliner-zeitung.de",
+  "title_de": "Corona-Bilanz des RKI: Linke wirft Regierung vor, Kinder mit den Folgen alleinzulassen",
+  "snippet_de": "... Pandemie. Im Gespräch mit der Berliner Zeitung äußerte er sich exklusiv zum Ende der Mental Health Coaches an Schulen und zu den geringeren ...",
+  "published": "2026-11-26T17:58:47+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "Pandemic (German)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "0702169e72d09cec",
+  "stream": "wider",
+  "url": "https://www.faz.net/agenturmeldungen/dpa/nettoeinwanderung-nach-grossbritannien-sinkt-wieder-deutlich-201719723.html",
+  "source": "faz.net",
+  "title_de": "Nettoeinwanderung nach Großbritannien sinkt wieder deutlich - FAZ",
+  "snippet_de": "Das ist die niedrigste Zahl seit 1997 - mit Ausnahme der Pandemie, als das Reisen erheblich eingeschränkt war. Bei Briten, EU-Bürgern und weiteren ...",
+  "published": "2026-11-26T17:35:02+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "Pandemic (German)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "3d0a7730380faa05",
+  "stream": "wider",
+  "url": "https://agerpres.ro/social-extern/2026/11/26/marea-britanie-migratia-neta-a-coborat-la-cel-mai-scazut-nivel-de-dupa-1997-cu-exceptia-perioadei-de--1617110",
+  "source": "agerpres.ro",
+  "title_de": "Marea Britanie: Migrația netă a coborât la cel mai scăzut nivel de după 1997, cu excepția ...",
+  "snippet_de": "Marea Britanie: Migrația netă a coborât la cel mai scăzut nivel de după 1997, cu excepția perioadei de pandemie. Imagine din galeria Agerpres. Flux ...",
+  "published": "2026-11-26T17:10:24+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "Pandemic (German)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "8284499eb06630da",
+  "stream": "wider",
+  "url": "https://www.handelsblatt.com/meinung/kommentare/kommentar-microsoft-apple-und-meta-sollten-fuer-europas-sicherheit-zahlen/100272076.html",
+  "source": "handelsblatt.com",
+  "title_de": "Kommentar: Microsoft, Apple und Meta sollten für Europas Sicherheit zahlen - Handelsblatt",
+  "snippet_de": "Sie müssen die Schulden aus der Pandemie zurückzahlen, der Ukraine helfen, aufrüsten und technologisch unabhängiger werden. Doch die bisherige ...",
+  "published": "2026-11-26T16:52:08+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "Pandemic (German)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "4a376401c2c361a8",
+  "stream": "wider",
+  "url": "https://www.economica.net/eliminarea-exceptiei-de-la-plata-cass-a-adus-42-miliarde-de-lei-in-plus-la-sanatate-in-noua-luni-cel-mai-mic-deficit-cu-cele-mai-mici-subventii-de-la-pandemie-incoace-analiza_998568.html",
+  "source": "economica.net",
+  "title_de": "Eliminarea excepţiei de la plata CASS a adus 4,2 miliarde lei la Sănătate şi cel mai mic ...",
+  "snippet_de": "... pandemie încoace prin Legea 141 – analiză exclusivă. Efectele Legii 141 din 2025, care a eliminat scutirea de la plata CASS pentru mai multe ...",
+  "published": "2026-11-26T16:24:59+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "Pandemic (German)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "972052b29b1adbff",
+  "stream": "wider",
+  "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/karlsruhe/norovirus-ausbruch-schule-malsch-zurueck-aus-der-krise-100.html",
+  "source": "swr.de",
+  "title_de": "Norovirus an Schule: Wie Malsch den Ausbruch in den Griff bekam - SWR Aktuell",
+  "snippet_de": "Wir konnten auch auf Vorgänge zurückgreifen, die sich während der Corona-Pandemie schon eingespielt hatten. Christoph Meyer, Schulleiter in Malsch ...",
+  "published": "2026-11-26T16:18:43+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "Pandemic (German)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "7f0983d74b23ea65",
+  "stream": "wider",
+  "url": "https://www.zorgkrant.nl/arbeid-cao/21716-voor-herintredende-verpleegkundigen-wegen-werkomstandigheden-en-steun-zwaar",
+  "source": "zorgkrant.nl",
+  "title_de": "Voor herintredende verpleegkundigen wegen werkomstandigheden en steun zwaar",
+  "snippet_de": "... pandemie in de zorg te blijven of opnieuw te vertrekken. Een baan die ertoe doet. Verpleegkundigen die na de pandemie in de zorg bleven werken ...",
+  "published": "2026-11-26T16:13:11+00:00",
+  "first_seen": "2026-11-27T03:42:24+00:00",
+  "alerts": [
+   "Pandemic (German)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
   "id": "60e00628b08cda4f",
   "stream": "core",
   "url": "https://www.legal500.com/intelligence/germany/government-public-sector/neue-resilienzpflichten-f%C3%BCr-die-%C3%B6ffentliche-hand",
@@ -82,7 +2334,8 @@
   "published": "2026-11-25T23:58:02+00:00",
   "first_seen": "2026-11-26T03:41:00+00:00",
   "alerts": [
-   "Operational plan Germany"
+   "Operational plan Germany",
+   "Supply of the population"
   ],
   "headline_en": null,
   "summary_en": null,
