@@ -1,5 +1,41 @@
 [
  {
+  "id": "832e7020f4350621",
+  "stream": "wider",
+  "url": "https://barlamantoday.com/2026/11/27/morocco-germany-sign-military-agreement-covering-defense-and-cybersecurity/",
+  "source": "barlamantoday.com",
+  "title_de": "Morocco, Germany Sign Declaration to Expand Defense and Cybersecurity Cooperation",
+  "snippet_de": "Morocco and Germany signed a joint declaration of intent to ... El Mansouri Meets Agriculture Groups to Discuss Investment, Food Security.",
+  "published": "2026-11-27T02:06:14+00:00",
+  "first_seen": "2026-11-27T05:06:09+00:00",
+  "alerts": [
+   "Germany and food security (ML)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "1bff877a9f79774f",
+  "stream": "wider",
+  "url": "https://www.radioarabella.de/bayern-staerkt-krisenvorsorge-im-gesundheitssystem-3562832/",
+  "source": "radioarabella.de",
+  "title_de": "Bayern stärkt Krisenvorsorge im Gesundheitssystem - Radio Arabella München",
+  "snippet_de": "Die Corona-Pandemie hat eindrücklich gezeigt, welche Belastungen bei einer Krise auf das Gesundheitssystem Peter Kneffel/dpa Pool/dpaZivilschutz ...",
+  "published": "2026-11-27T01:40:02+00:00",
+  "first_seen": "2026-11-27T05:06:09+00:00",
+  "alerts": [
+   "Pandemic (German)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
   "id": "d311818b20529325",
   "stream": "core",
   "url": "https://www.lto.de/recht/hintergruende/h/bmi-erfundene-schutzluecke-informationsfreiheit-kritische-infrastruktur",
