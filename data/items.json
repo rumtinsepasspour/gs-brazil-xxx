@@ -1,5 +1,77 @@
 [
  {
+  "id": "8bfc09dd4f591dde",
+  "stream": "wider",
+  "url": "https://www.20min.ch/story/bis-zu-680-000-franken-top-lohn-aussichten-wie-bekomme-ich-einen-job-bei-anthropic-103674322",
+  "source": "20min.ch",
+  "title_de": "Job bei Anthropic: Was Personalberater von Bewerbenden erwarten - 20 Minuten",
+  "snippet_de": "Neben Fachwissen zählt eine nachvollziehbare Motivation für das Unternehmen und dessen erklärten Schwerpunkt KI-Sicherheit. Der KOF-Experte ...",
+  "published": "2026-11-28T04:18:43+00:00",
+  "first_seen": "2026-11-28T04:45:27+00:00",
+  "alerts": [
+   "AI safety (German)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "be8316ec5a8afae9",
+  "stream": "wider",
+  "url": "https://www.zeit.de/politik/deutschland/2026-11/rhein-umbau-klimawandel-gueterverkehr-carsten-schneider",
+  "source": "zeit.de",
+  "title_de": "Rhein: Umweltminister setzt sich für Umbau des Rheins ein - DIE ZEIT",
+  "snippet_de": "Rhein Umbau Klimawandel Güterverkehr Carsten Schneider ... Flüsse und Klimawandel. Hydrologie: Liegt der Rhein trocken, wenn die ...",
+  "published": "2026-11-28T04:01:01+00:00",
+  "first_seen": "2026-11-28T04:45:27+00:00",
+  "alerts": [
+   "climate change (Germany)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "a177e124fb9e9356",
+  "stream": "wider",
+  "url": "https://www.spiegel.de/wissenschaft/umweltminister-schneider-plaediert-fuer-umbau-des-rheins-a-9bdd3f7a-fe7f-4e4c-ac53-c978f80c2fba",
+  "source": "spiegel.de",
+  "title_de": "Umweltminister Schneider plädiert für Umbau des Rheins - DER SPIEGEL",
+  "snippet_de": "Voranschreitender Klimawandel Umweltminister Schneider plädiert für Umbau des Rheins. Der Rhein soll den Güterverkehr auch in Dürrezeiten sichern ...",
+  "published": "2026-11-28T03:15:51+00:00",
+  "first_seen": "2026-11-28T04:45:27+00:00",
+  "alerts": [
+   "climate change (Germany)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
+  "id": "9d18e8bc28572ec3",
+  "stream": "wider",
+  "url": "https://www.volksstimme.de/panorama/nach-dem-hitzesommer-lander-warnen-vor-wasserknappheit-4364098",
+  "source": "volksstimme.de",
+  "title_de": "Klimawandel: Nach dem Hitzesommer: Länder warnen vor Wasserknappheit - Volksstimme",
+  "snippet_de": "Klimawandel Nach dem Hitzesommer: Länder warnen vor Wasserknappheit ... Wasserknappheit und Hitzestress standen bei der Umweltministerkonferenz im ...",
+  "published": "2026-11-27T16:35:21+00:00",
+  "first_seen": "2026-11-28T04:45:27+00:00",
+  "alerts": [
+   "climate change (Germany)"
+  ],
+  "headline_en": null,
+  "summary_en": null,
+  "tag": null,
+  "score": null,
+  "notified": false
+ },
+ {
   "id": "cf551eda4bb39d93",
   "stream": "core",
   "url": "https://www.energate-messenger.com/news/269227/zvei-classifies-kritis-provisions",
